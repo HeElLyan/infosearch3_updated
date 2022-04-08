@@ -1,0 +1,1997 @@
+'til: 'til  110:1 130:6
+a'roll: a'roll  71:2
+a'warring: a'warring  71:1
+abandon: abandoned  138:2 140:2
+abattoir: abattoir  108:1
+abolitionists: abolitionists  132:1
+absurd: absurd  102:1
+abuse: abuse  73:2 103:1
+abuser: abuser  20:2 32:2 51:2
+aby: abyss  99:1
+accept: accept  137:2
+ace: aces  49:3
+ache: aching  128:1
+acknowledge: acknowledge  137:2
+acoustic: acoustic  5:1 90:1 96:1 107:1 116:1
+across: across  17:1
+act: act acting  7:2 71:1
+action: action  61:1
+actuality: actuality  14:1
+adhesive: adhesive  73:1
+adjust: adjust  135:1
+administer: administer  140:3
+advice: advice  142:1
+affair: affair  73:1
+afraid: afraid  23:1
+aftertaste: aftertaste  121:4
+age: age ages  17:1 65:1 132:2 34:1 50:1 78:1 134:1
+aggression: aggression  40:1
+agony: agony  67:2 121:1
+ahead: ahead  125:1
+aim: aim aimed  58:1 68:1 121:1 60:1
+air: air  49:1 97:1 104:2 133:2
+airborne: airborne  49:2
+album: album  35:1 68:1 69:1 70:1 71:1 72:1 73:1
+alissa: alissa  120:1 121:1 125:1 126:1 127:1
+alive: alive  2:1 94:1 107:1 124:1 132:1 138:1 140:3
+alone: alone  9:1 10:1 12:1 24:2 35:1 44:2 52:1 80:3 87:1 128:2 135:5 142:1
+already: already  26:1
+altar: altar  67:3
+altars: altars  16:1
+alter: alter  14:1
+alteration: alteration  113:1
+always: always  20:1 21:2 26:1 27:1 32:1 51:1 53:2 60:2 125:1 132:2 136:4
+amnesia: amnesia  120:1
+among: among  12:1 84:1
+amot: amot  18:1
+amott: amott  1:2 3:2 5:2 6:1 7:2 8:1 9:1 12:3 13:1 14:2 15:3 16:3 17:2 19:2 20:3 21:2 23:3 35:2 36:1 37:2 38:2 39:2 40:2 42:2 43:2 44:2 45:1 46:2 51:3 52:2 53:2 54:1 73:1 89:2 90:2 91:3 92:3 93:3 94:1 95:2 96:1 97:1 98:1 99:2 117:2 118:1 119:1 120:1 122:1 123:1 124:2 128:1 129:1
+amottchristopher: amottchristopher  3:1 9:1 37:1 38:1 39:1 42:1 43:1 44:1 45:1
+amottdaniel: amottdaniel  10:1 125:1
+amottjohan: amottjohan  2:1 4:1
+amottmichael: amottmichael  10:1 36:1 46:1
+amottnick: amottnick  118:1 119:1 121:1 122:1 126:1 127:1 128:1
+amottsharlee: amottsharlee  40:1
+amp: amp  89:1 90:2 91:1 92:1 93:1 97:1 99:2 102:1 103:1 104:1 113:3
+amuse: amused  64:1
+anarchy: anarchy  76:1 110:2
+ancient: ancient  28:1 43:1 106:1
+angel: angel  1:2 37:1 69:1 97:1
+angela: angela  36:1 39:1 43:1 89:1 90:1 91:1 94:1 95:1 97:1 98:1 99:1
+angelclaw: angelclaw  30:3
+angels: angels  4:1 44:1
+anger: anger  17:1 23:1 34:2 50:2 106:1
+angst: angst  4:1
+anguish: anguish  41:1 137:2
+animosity: animosity  60:3
+annihilation: annihilation  82:2 94:1
+anoher: anoher  24:1
+anonymous: anonymous  60:3
+another: another  25:2 34:1 44:1 50:1 61:2 95:1 115:1 126:1 140:1
+answer: answer answers  127:1 125:2 142:1
+anthem: anthem  66:1
+anthems: anthems  68:1 70:1
+antidote: antidote  57:1 70:1
+antivenom: antivenom  138:2
+anxiety: anxiety  2:1 16:1
+anymore: anymore  26:1
+anyone: anyone  15:1
+anything: anything  57:2 70:2 83:1
+anyway: anyway  34:1 50:1
+apart: apart  20:1 32:1 51:1 99:1 120:1 122:1
+apocalypse: apocalypse  5:1 77:3
+apocrypha: apocrypha  1:1
+appear: appear appears  34:1 50:1 141:1 5:1
+apply: apply  111:1
+arch: arch  11:1 23:1 35:1 54:1 67:1 73:1 84:1 88:1 100:1 116:1 130:1 142:1
+archaic: archaic  108:1
+archangels: archangels  138:3
+arena: arena  24:1
+arise: arise  90:1 106:1
+arm's: arm's  125:1
+armageddon: armageddon  5:1 103:2
+arm: arms  3:1 9:1 21:1 35:1 52:1 53:1
+around: around  3:2 5:1 48:2 79:1 88:2 115:1
+arrive: arrive arrives  138:1 28:1
+arrows: arrows  72:1
+art: art  60:1 61:1
+artificial: artificial  17:1
+ascend: ascending  49:1
+ash: ashes  2:1 40:1 101:1 133:2
+ask: ask asking  46:1 114:2 140:1
+astray: astray  3:1 80:1
+atoms: atoms  110:1
+atrocities: atrocities  19:1
+attack: attack  49:1 126:1 132:3
+attention: attention  87:1
+authority: authority  132:1
+available: available  35:1
+avalanche: avalanche  127:1
+avoid: avoid avoiding  127:1 24:1
+await: awaiting awaits  16:1 23:1 7:1 140:1
+awake: awake  16:1 38:1 140:1
+away: away  16:1 19:1 21:1 23:1 27:1 28:1 42:1 44:1 48:1 49:1 53:1 56:2 77:1 78:2 84:1 87:1 91:2 92:1 114:1 115:1 118:2 119:1 120:1 124:5 127:2 134:1 136:1 140:1 141:1
+axe: axe  16:1
+back: back  9:1 12:1 17:1 19:1 26:1 35:1 52:1 64:1 75:3 83:1 95:1 105:1 119:3 122:2 124:1 126:1 132:3 136:1
+backwards: backwards  86:2 89:2
+bad: bad  118:1
+bag: bag  108:1
+bandits: bandits  49:1
+bar: barred  140:1
+bask: bask  127:1
+bathe: bathe  141:1
+battalions: battalions  58:1 68:1
+battle: battle  56:1 60:1 126:1 135:1
+battlefield: battlefield  119:1
+battlefields: battlefields  107:1
+bear: bear bearing bears born  10:1 1:1 4:1 102:1 67:2 85:1 86:2 89:2 92:1 93:1 95:1 135:1
+beast: beast  12:3 20:2 32:2 36:2 51:2
+beat: beat beaten beating  130:1 142:1 78:2 114:1
+beautiful: beautiful  30:1
+beauty: beauty  16:1 20:3 32:3 51:3 97:1 108:5
+become: became become becomes  86:1 89:1 7:1 12:1 46:1 59:1 71:1 94:1 119:1
+bed: bed  133:1 141:2
+beggar: beggar  111:2
+beg: begging  56:1
+begin: begin beginning begins begun  14:1 16:2 27:1 120:1 90:1 110:1 9:1 35:1 52:1 85:2 93:2 97:1 36:1 136:1
+behaviour: behaviour  60:1
+behind: behind  41:1 44:2 49:2 60:2 79:1 84:1 88:1 91:1 95:1 98:1 115:1 122:2 140:1 141:1
+behold: behold  5:1
+belief: belief  19:1 98:1 103:1
+beliefs: beliefs  103:1
+believe: believe believed believes believing  26:1 29:1 56:2 59:2 87:1 102:1 135:2 136:8 140:2 10:1 25:2 103:6 9:1 35:1 52:1 26:1
+believer: believer  25:1
+believers: believers  63:2
+bend: bending  138:3
+beneath: beneath  60:1 77:2 90:1
+beo: beo  98:1
+berserkspreading: berserkspreading  72:1
+best: best  28:1 57:1 60:2 70:1
+betrayal: betrayal  56:1 124:1 126:1 127:1 135:1
+betray: betrayed  140:2
+better: better  56:1 64:2 92:1 105:1
+beware: beware  12:1
+beyond: beyond  19:1 90:1 98:1 102:1 128:1
+bible: bible  34:1 50:1
+big: big  85:1 93:1
+binary: binary  132:1
+birth: birth  80:2 138:2
+bitch: bitch  127:1
+bitter: bitter  29:1 44:2 64:1 77:1 121:4
+bittersweet: bittersweet  142:1
+black: black  1:1 5:1 15:1 17:2 35:1 38:1 72:2 82:1 97:1 104:5 118:1 124:1 125:4 128:1
+blacken: blacken blackened  99:1 1:1 47:1 83:1 142:1
+blade: blade  61:1 114:2
+blame: blame  46:1 121:1 127:1
+blank: blank  120:1
+bleakness: bleakness  28:1
+bleed: bleed bleeding bleeds  75:1 136:1 56:1 78:1 121:1 126:1
+bless: blessed  40:1
+blow: blew blow blowing blows  64:1 23:1 47:2 9:1 35:1 36:1 52:1
+blind: blind blinded  63:2 84:4 98:1 133:2 137:1 20:1 32:1 51:1
+blindfold: blindfolds  10:1
+blindside: blindsides  49:1
+bliss: bliss  57:1 70:1
+block: blocks  49:1
+blood: blood  7:2 19:1 20:2 28:1 30:1 32:2 37:1 39:2 40:1 51:2 58:1 67:2 68:1 69:1 72:1 76:3 79:5 86:4 88:5 89:4 90:1 92:1 94:2 97:1 102:1 107:3 108:1 132:3 133:7 138:2
+bloodstained: bloodstained  58:1 68:1 103:7
+bloodsucker: bloodsucker  15:1
+bloody: bloody  36:1
+body: bodies body  107:1 36:1 39:1 107:2
+boil: boiling  132:3
+bombers: bombers  49:1
+bomb: bombs  133:1
+bond: bonded  73:1
+bone: bone bones  73:1 90:1 99:1 106:3 107:1
+bonus: bonus  18:1 20:1 21:1 33:1 34:1 35:1 100:1 130:1
+book: books  120:1 132:1
+boredom: boredom  3:1
+bore: boring  115:1
+borrow: borrowed  24:1
+bough: bough  134:1
+buy: bought  26:1
+bind: bound  21:1 45:1 53:1 116:1
+boundless: boundless  80:1
+bow: bow  67:3
+brain: brain  63:1 64:1 71:1 127:1
+brave: brave  107:1
+bray: brayed  73:1
+break: break breaking breaks broken  21:1 30:1 53:1 56:1 79:1 83:1 88:1 119:3 122:1 85:1 93:1 36:1 134:1 31:1 91:1 106:1 107:1 140:2
+breath: breath  34:1 50:1 61:1 80:1 103:1 114:1
+breathe: breathe breathes breathing  4:1 73:1 106:1 121:1 36:1 97:1 99:1 103:1
+breed: breed breeding  12:1 21:1 37:2 53:1 65:4 69:2 24:2
+brew: brewed  73:1
+bride: bride  20:1 32:1 51:1
+bridge: bridge bridges  23:3 31:2 83:1 102:1 124:1
+bright: bright  102:1
+bring: bring brought  20:1 32:1 51:1 121:1 125:1 59:1
+bringer: bringer  30:1
+broadcast: broadcast  132:1
+brother's: brother's  86:3
+brothers: brothers  89:1
+brotherâs: brotherâs  89:2
+brutal: brutal  108:1
+bu: bu  30:1
+build: build building built  133:2 87:1 134:1
+bullet: bullet  127:1
+burden: burden  78:1 114:1 120:1 132:1
+burial: burial  106:1 108:1
+bury: buried bury  77:2 97:1 114:1 1:2 41:2 141:1
+burn: burn burning burns burnt  4:1 5:1 37:1 43:1 69:1 94:1 98:1 102:1 104:3 113:1 120:6 124:2 134:1 141:1 1:1 2:1 17:1 20:1 25:1 31:1 32:1 37:2 51:1 56:1 69:2 90:1 132:3 76:1 87:1 97:3 17:1 31:1 37:1 69:1
+burst: burst  49:1
+c: c  12:1 15:1 16:1 18:1 20:1 23:1 35:1 51:1 54:1
+cage: cage  21:1 53:1 102:1 134:1 138:1
+call: call calls  87:1 115:2 36:1 104:1
+come: came come comes coming  111:2 126:1 15:1 19:1 29:2 37:1 38:1 49:1 65:2 69:1 72:1 87:1 94:1 97:1 105:5 115:1 119:1 141:1 19:1 25:1 42:1 48:2 49:1 87:1 105:1 127:1 5:1 49:1 58:1 68:1 77:2 80:1 142:3
+can't: can't  14:1 19:2 38:1 44:1 87:1 114:1 120:2 121:5 132:1 133:4 136:1 137:1
+candle: candle  128:1
+cannon: cannon  94:1
+cannot: cannot  91:1 108:1 114:2
+capsule: capsule  8:1
+carcass: carcass  73:1
+care: care  59:2 60:1
+carefully: carefully  118:2
+carnage: carnage  39:1
+carnal: carnal  20:1 32:1 51:1
+carnivorous: carnivorous  39:1 99:1
+carry: carries carry carrying  120:1 78:5 5:1
+carve: carve  124:1
+cast: cast casting  30:1 80:1
+castly: castly  47:1
+catacombs: catacombs  16:1
+catch: catch  115:1 125:1
+cause: cause  87:1
+caustic: caustic  132:3
+centuries: centuries  67:2
+century: century  17:2
+ceremony: ceremony  14:1
+certain: certain  1:1
+chain: chain chains  72:1 83:1 21:1 41:1 53:1 85:1 93:1 102:1 111:3
+chalice: chalice  30:1 39:1
+chamber: chamber  108:1
+chance: chance  65:4 105:1 120:1
+change: change changes  83:2 114:1 119:3 137:1 31:2
+chaos: chaos  15:1 90:2 91:1 110:6
+charade: charade  42:1
+chariot: chariots  1:1 24:1
+chase: chase  15:1
+child: child  7:2 15:1 95:1
+children: children  15:1 65:4 106:1 138:1
+chistopher: chistopher  34:1 35:1
+choice: choice  108:1
+choices: choices  121:1
+choke: choke choking  73:1 67:2 142:1
+choose: choose chose chosen  67:3 121:1 135:1 10:1 48:1 56:2 59:1 65:1 85:2 93:2
+chord: chords  107:1
+chorus: chorus  1:1 2:1 3:1 4:1 5:1 7:1 10:1 21:1 53:1 71:3 86:1 102:2 115:2 118:3 119:2 121:3
+christopher: christopher  2:1 3:1 4:1 5:2 7:1 8:2 9:1 10:4 21:1 35:2 36:2 37:1 38:1 39:3 41:3 42:1 43:1 44:1 45:1 46:2 47:1 52:2 53:1 69:1 89:3 90:5 91:3 92:4 93:3 94:3 95:2 96:1 97:2 98:1 99:6 102:3 103:2 104:1 106:1 107:4 110:4 111:2 113:7 114:1
+chromatic: chromatic  82:1
+circle: circle circles circling  3:1 43:1 56:1 42:1 124:1
+circus: circus  64:1
+city: city  106:2
+claustrophobic: claustrophobic  15:1
+clean: clean  37:1 45:1 69:1 108:1 120:1
+cleanse: cleanse  110:1
+clear: clear  124:1 125:2
+clearer: clearer  34:1 50:1
+climb: climbing  82:1
+cloak: cloak  142:1
+close: close closing  19:2 31:1 126:1 137:3 3:1 5:1 86:1 89:1 94:2
+closely: closely  57:1 70:1
+closer: closer  29:2
+clothe: clothes  28:1
+cloudsstand: cloudsstand  72:1
+clown: clown  64:1
+coarse: coarse  73:1
+cockpit: cockpit  49:1
+code: code  28:1
+cognition: cognition  120:1
+cold: cold  2:1 9:1 35:1 52:1 59:1 61:1 82:2 91:1 126:1 130:2
+colder: colder  83:1
+coldness: coldness  98:1
+color: color  132:1
+comfort: comfort  84:1
+comin': comin'  34:1 50:1
+comminute: comminuted  73:1
+commit: commit  36:1
+common: common  17:1
+company: company  121:1
+compassion: compassion  102:1
+complete: complete  38:2
+complex: complex  3:1
+conceal: conceal  111:2
+concrete: concrete  82:1
+condition: conditioning  132:1
+confess: confess  114:1
+confession: confession  78:2
+confine: confined  46:1 106:1
+conform: conform  10:1
+confront: confronting  19:1
+confuse: confused  4:1
+confusion: confusion  16:1 110:1
+connection: connection  44:1
+conquer: conquer  27:1 82:2 90:2
+conscience: conscience  46:1 120:1
+constant: constant  1:1
+constrict: constricting  132:3
+consume: consume consumed  5:1 63:1 98:1
+contamination: contamination  132:1
+contemplate: contemplating  19:1
+control: control controlling  15:1 38:2 43:1 64:1 71:1 85:1 93:1 94:2 98:1 102:1 111:3 113:1 119:3 134:4 142:3 15:1
+conviction: conviction  138:1
+cordle: cordle  118:1 119:1 121:1 122:1 126:1 128:1
+cordledaniel: cordledaniel  127:1
+corner: corner  14:1
+corporal: corporal  73:2
+corpse: corpse  127:1
+corridors: corridors  90:1
+corrode: corrodes  71:1
+corrupt: corrupt corrupts  37:2 69:2 101:1 23:1
+corruption: corruption  64:1 104:3
+cosmic: cosmic  5:1
+cost: cost  42:2 102:1
+could: could  25:1 108:1 118:1 125:1 132:1 134:2 135:1
+countdown: countdown  71:1
+count: counting  16:1
+countless: countless  76:1 86:1 89:1
+course: course  121:1
+cover: cover covered  9:1 34:1 35:1 48:1 49:1 50:1 52:1 71:1 72:1 73:1 87:1 100:1 115:1 19:1
+cradle: cradle  26:1 106:1
+crash: crash crashing  104:3 142:1 42:1
+crave: crave  39:1
+crawl: crawl crawled crawling  2:1 142:1 60:1 61:1
+create: create created creating  2:1 73:1 59:1 82:1 114:1 133:1 76:1
+creation: creation  65:1 82:3 110:1
+creature: creature  30:1
+creek: creek  127:1
+creep: creep  47:1
+cry: cries cry crying  107:1 40:1 44:1 80:1 98:1 99:1 102:1 127:1 9:1 24:1 35:1 52:1
+crime: crime  126:1
+crimes: crimes  19:1 107:2
+criminal: criminal  130:2
+cripple: crippling  121:1
+criticize: criticize  60:2
+cross: cross crossed crosses  4:1 26:1 48:1 78:6 80:1 83:1 90:1 103:7 83:1 138:3
+crowd: crowd crowded  44:1 138:1
+crown: crown  107:1 137:1
+cruelty: cruelty  108:5
+cruisin': cruisin'  48:2
+crumble: crumbles  38:1
+crush: crush crushing  79:2 88:2 119:3 76:1 121:1
+crust: crust  17:1
+cull: culled  73:1
+culprits: culprits  138:1
+cult: cult  110:5
+cup: cup  14:1
+cure: cure  87:1
+curse: curse cursed  72:1 138:1 84:1
+cut: cut cuts cutting  4:1 56:1 135:1 126:1 36:1
+cycle: cycles  42:1
+cynicism: cynicism  60:2
+d'angelochristopher: d'angelochristopher  40:1
+damn: damn damned  23:1 1:1 65:4
+damnation: damnation  7:1 15:1 78:2
+damnation's: damnation's  21:3 53:2
+damnations: damnations  53:1
+dance: dance dancing  71:1 80:4 80:2
+danger: danger  119:3
+dangerous: dangerous  42:3
+daniel: daniel  46:1 91:1 92:1 95:1 123:1
+dare: dares  97:1
+dark: dark  2:2 14:1 15:2 17:1 19:1 36:1 37:3 38:2 61:1 69:3 78:1 95:2 102:1 118:3 124:1 128:1 140:1
+darken: darkened  92:1
+darkest: darkest  2:1 14:1 23:1
+darkness: darkness  2:1 9:1 17:1 35:1 38:4 47:1 52:1 80:1 86:2 89:2 97:2 98:3 99:1 103:2 106:1 141:1 142:1
+dawn: dawn  5:1 21:1 28:1 53:1 82:1
+day: day  15:1 48:1 56:1 61:1 85:1 87:3 93:1 95:5 102:1 105:1 115:1 119:1 125:1 134:1 138:7 140:1
+days: days  1:1 16:1 19:1 78:1 106:1 141:2
+de: de  117:1
+dead: dead  7:1 19:2 23:1 25:2 39:1 41:4 58:3 62:1 64:1 65:1 68:3 80:1 86:2 89:2 97:1 98:1 99:3 102:5 106:1 110:3 126:2 127:2 137:4
+deadly: deadly  43:3 99:1
+deadride: deadride  72:1
+death: death  1:1 12:1 16:2 17:1 34:1 39:1 43:1 50:1 61:1 72:1 80:2 86:1 89:1 90:2 94:1 97:2 106:1 108:1
+death's: death's  138:1
+decay: decay decaying  17:1 90:1 127:1
+deceit: deceit  42:1 111:2 126:1 127:1 132:1 135:1
+deceive: deceived  25:1 103:6
+deceiver: deceiver  25:1
+deception: deception  40:1
+declare: declare  14:1
+decrepit: decrepit  126:1
+deep: deep  4:2 26:1 36:1 63:2 119:3 126:1 133:2 135:1
+deeper: deeper  56:2 86:1 89:1
+defeat: defeat defeated  4:1 126:1 132:3 135:1 86:2 89:2
+defense: defense  15:1 108:1 141:1
+define: define  128:2
+defy: defy  19:1
+defyâ¦: defyâ¦  90:1
+degradation: degradation  44:1
+degree: degree  119:1
+dehumanization: dehumanization  65:2
+delusions: delusions  77:1
+demand: demands  126:1
+demon: demon  43:1 142:6
+demoniality: demoniality  6:1
+demonic: demonic  28:3
+demonize: demonize  124:1
+demons: demons  23:1 36:1 128:2 140:1
+dense: dense  125:1
+deny: deny  19:1 38:2
+depart: depart  16:1
+deprave: depraved  9:1 35:1 52:1
+depression: depression  106:1
+deprive: deprived  21:1 53:1
+depths: depths  10:1
+derogate: derogate  73:1
+descant: descanting  73:1
+desecrate: desecrated  118:1
+deserve: deserve deserved  108:1 17:1
+desinently: desinently  73:1
+desire: desire  40:2 43:1 90:1
+desolation: desolation  9:3 35:3 52:3
+despair: despair  4:1 58:1 68:1 98:1
+desperate: desperate  80:1 90:1
+desperately: desperately  24:1 127:1
+desperation: desperation  125:1
+despicable: despicable  63:2
+despise: despise  63:1
+despoil: despoiled  73:1
+dessert: dessert  12:1
+desserts: desserts  17:1
+destine: destined  23:1
+destiny: destiny  4:1 23:3 34:1 50:1 111:3
+destroy: destroy destroyed  63:1 82:1 134:1 36:1 94:1 107:1
+destroyer: destroyer  30:1
+destruction: destruction  71:2
+determine: determined  16:1
+dethrone: dethroned  24:2
+devastation: devastation  94:1 113:1
+devil: devil devils  15:1 37:1 69:1 92:1 12:1
+devour: devouring  99:1
+diabolus: diabolus  98:1
+dictate: dictate dictates  132:1 135:1
+die: die died dies dying  2:1 16:2 20:1 32:1 34:1 39:1 49:2 50:1 51:1 61:1 72:4 90:1 92:1 105:1 107:2 110:3 141:1 95:3 4:1 44:1 47:1 114:1 4:2 38:1 42:2 46:1 47:2 56:1 59:1 61:1 77:2 84:1 97:1 99:1
+dieâ¦: dieâ¦  92:1
+different: different  19:1 29:2
+diffusion: diffusion  110:1
+dig: dig  127:1 133:2
+dignity: dignity  24:2 106:1 108:2 121:1 122:1
+dilute: diluted  75:1
+dimension: dimension  3:1
+direction: direction  75:1
+dirt: dirt  60:3
+dirty: dirty  124:1
+disappear: disappear  137:1
+disbelievers: disbelievers  40:1
+disease: disease  60:3
+disgust: disgusts  141:1
+disillusion: disillusion disillusioned  110:1 98:1
+disinfect: disinfected  108:1
+disorder: disorder  58:1 68:1 76:1
+dissolve: dissolved  38:1
+distance: distance  80:1 125:2 132:1
+distant: distant  1:1 27:1 84:1 136:1
+distil: distilled  14:1
+distort: distorting  77:1
+distress: distress  4:1
+diva: diva  20:2 32:2 51:2
+divine: divine  9:1 14:1 20:1 32:1 35:1 51:1 52:1 132:1
+dive: diving  49:3
+dna: dna  28:1
+doesnât: doesnât  105:1
+dogma: dogma  63:2
+dogmatic: dogmatic  15:1
+domains: domains  4:1
+domination: domination  113:1
+dominus: dominus  98:1
+do: done  87:1 115:1 121:8 134:1 136:1
+donât: donât  91:1 128:4
+doom: doomed  9:1 35:1 52:1 106:1 138:2
+doomsday: doomsday  58:1 68:1 82:1
+door: door  103:2
+doubt: doubt doubts  5:1 102:1 29:2 120:1
+downward: downward  7:1 36:1
+dozen: dozen  138:2
+drag: dragging  136:2 140:1
+drain: drained  92:1
+draw: draw drawing drawn draws  114:1 103:2 15:1 119:1 16:1 125:1
+dream: dream dreaming dreams  27:1 28:1 29:1 77:1 87:2 91:1 133:1 99:1 20:1 27:1 32:1 42:1 51:1 56:1 84:1 90:1 106:1 108:1 115:1 123:1 140:2
+dreamlike: dreamlike  14:1
+dress: dressed  115:1
+drink: drink drinking  14:1 44:1 115:1 3:1 20:1 32:1 51:1
+drive: drive drives  12:1 141:3
+drown: drown drowning  9:1 35:1 52:1 106:1 118:3 137:1 9:1 35:1 52:1 141:2
+dry: dry  30:1 73:2 90:1 92:1 95:1
+dust: dust  2:1 17:1 46:3 47:2 103:1 111:2 112:1 118:1 133:2
+dwell: dwell dwelling dwells  25:1 43:1 142:3 36:1 39:1
+dwindle: dwindles  128:1
+eager: eager  4:1
+eagle: eagle  135:4
+ears: ears  118:1
+earth: earth  15:1 17:2 35:1 71:1 76:1 97:2 138:3
+easy: easy  15:1 17:1 124:1
+eat: eat eating  2:1 44:2 63:1 115:1 120:1 20:1 32:1 42:1 51:1 56:1
+ebb: ebb  128:1
+ebony: ebony  82:1
+echo: echo echoes  16:1 95:1 140:1 47:1 95:1 106:1
+eclipse: eclipse  86:1 89:1
+ecstasy: ecstasy  4:1 43:1
+eden: eden  84:1
+effigy: effigy  30:1
+ego: ego  14:1 127:1
+else: else  26:1
+elysian: elysian  41:1
+embody: embodied  67:1
+embrace: embrace  43:1 86:1 89:1 141:1
+embryo: embryo  5:1
+emerge: emerges  90:2
+emotions: emotions  77:1
+empathy: empathy  108:2
+emperor: emperor  14:1
+empire: empire  134:2
+empires: empires  104:3
+emptiness: emptiness  98:1
+empty: empty  36:1 42:1 47:1 106:1 134:1
+end: end ending ends  2:1 5:1 9:3 10:1 16:2 19:1 35:2 36:1 44:1 46:1 47:1 52:3 56:2 58:1 62:1 64:4 68:1 77:2 78:1 83:1 86:1 89:1 94:2 102:1 103:1 133:3 138:1 141:2 9:1 21:1 24:2 35:1 52:1 53:1 15:1
+endless: endless  16:1 77:1 128:2
+endlessly: endlessly  23:1
+enemies: enemies  99:1
+enemy: enemy  11:1 23:2 35:1 36:2 54:1 57:1 67:1 70:1 73:1 76:1 84:1 88:1 90:3 94:1 100:1 116:1 130:1 140:1 142:1
+energy: energy  15:1
+engines: engines  49:1
+england: england  72:1
+english: english  117:1
+engulf: engulfed engulfs  125:1 103:2
+enjoy: enjoy  115:1
+enlighten: enlighten  43:1
+enough: enough  14:1 82:2 83:1 124:1 133:4
+enrage: enrage  135:1
+enslave: enslave  94:2 135:1
+enter: enter  74:1 82:2
+entity: entity  101:1 109:1 110:2
+entrails: entrails  141:1
+equality: equality  133:1
+era: era  28:1
+erase: erase erased  61:1 120:1 28:1 121:4
+erlandsson: erlandsson  10:1 91:1 92:1 95:1 125:1 127:1
+erlandssonmichael: erlandssonmichael  46:1 123:1
+erotic: erotic  14:1
+escape: escape  2:1 61:1 125:2
+esprit: esprit  73:1
+essence: essence  39:1
+est: est  117:1
+eternal: eternal  7:1 9:2 24:1 26:1 35:2 47:1 52:2 118:1 119:3 128:2
+ether: ether  120:1
+ethics: ethics  132:1
+euphoria: euphoria  24:1
+eureka: eureka  3:3
+europe: europe  34:1 50:1
+eve: eve  43:1
+even: even  86:1 89:1 93:1
+evengenot: evengenot  72:1
+ever: ever  5:1 27:1 34:1 48:1 50:1 58:1 68:1 85:1 118:2 122:1 124:2 136:1
+evermore: evermore  29:1
+every: every  28:2 48:2 78:1 85:2 93:2 134:1 137:1 138:1 141:1
+everyone: everyone  132:1
+everyone's: everyone's  140:1
+everything: everything  5:1 25:4 26:1 29:1 124:1
+evil: evil  1:1 19:1 20:1 23:1 30:1 32:1 34:2 38:1 43:1 50:2 51:1 75:1 108:1 122:2 130:1
+evolution: evolution  61:1
+except: except  59:1
+excite: excited  115:1
+excruciate: excruciating  7:1
+excuse: excuse  30:1 59:1
+executioners: executioners  16:1
+exist: exist  61:2 120:1
+existence: existence  38:1 47:1 77:1 138:3
+exit: exit  61:3
+expect: expect  127:1
+expectation: expectation  120:1
+expense: expense  122:2
+explode: explodes  71:2
+expose: expose exposed  124:1 135:1
+exposure: exposure  137:2
+exsanguine: exsanguine  73:1
+exsiccate: exsiccated  73:1
+extinction: extinction  71:1
+extract: extract  132:1
+extravaganza: extravaganza  14:1
+extravated: extravated  73:1
+eye: eye eyes  76:2 133:6 137:1 4:1 19:2 21:1 23:1 42:2 53:1 58:2 67:2 68:2 78:1 83:2 86:1 89:1 97:1 98:1 99:1 107:4 108:2 115:1 118:1 122:1 127:1 138:2
+f: f  18:1 22:1 54:1 117:1
+fabric: fabric  125:1
+facade: facade  38:1
+face: face faces facing  23:1 43:1 49:1 60:1 61:1 63:3 124:1 126:1 130:1 140:2 141:5 59:1 128:2
+fact: fact  10:1 118:3
+fade: fade fading  27:1 42:1 97:1 120:1 134:1 77:1 80:1 91:2
+fail: failed fails  94:1 95:1 26:1
+failure: failure  17:1
+faith: faith  10:2 23:1 26:2
+fake: faking  98:1
+fall: fall falling falls  71:1 72:1 78:1 94:1 104:2 127:1 130:1 134:1 141:1 29:1 58:1 68:1 90:2 95:2 97:3
+false: false  42:1 63:2 72:1 110:1
+fame: fame  61:1
+fangs: fangs  63:2 110:1
+fantasy: fantasy  14:1
+far: far  19:1 28:1 31:1 42:1 84:1 91:1 98:1 119:1 125:1 136:1
+farce: farce  63:1
+fascination: fascination  64:1
+fashion: fashion  64:1
+fast: fast  2:1 97:3
+faster: faster  85:1 93:1
+fatal: fatal  84:1 91:1
+fate: fate  15:1 16:1 19:1 24:1 46:1 58:1 68:1 85:2 93:2 108:1
+fat: fates fats  141:1 73:1
+father's: father's  106:3
+fatherland: fatherland  19:1
+father: fathers  86:1 89:1
+fatherson: fatherson  72:1
+fear: fear  9:1 16:1 23:1 29:2 34:1 35:1 50:1 52:1 59:1 67:1 72:1 79:1 80:1 88:1 94:1 98:1 99:1 122:3 127:1 133:2 137:1 138:2 140:1 141:1
+fearless: fearless  90:1
+feast: feast  14:1
+feed: fed feeding  57:1 64:1 70:1 15:1 58:1 67:1 68:1
+feeble: feeble  15:1 130:1
+fee: feed  61:1 64:1 127:1
+feel: feel feeling feelings  4:1 16:1 19:1 34:1 44:2 50:1 59:3 77:2 87:2 94:1 95:1 98:2 99:2 115:1 118:1 124:1 134:4 142:3 48:2 56:1 9:1 35:1 52:1 56:1
+feet: feet  82:2 126:1 142:1
+felt: felt  135:1
+fence: fence  119:1
+fertile: fertile  65:1
+fever: fever  76:1
+field: field fields  15:1 9:3 35:3 41:1 52:3 80:1 82:1
+fight: fight fighting  15:1 76:1 102:2 104:1 105:1 127:1 135:6 136:1 142:17 56:1 58:2 60:1 68:2 76:1 98:2 136:4 141:1
+fill: fill fills  39:1 120:1
+filthy: filthy  37:2 69:2
+final: final  9:1 21:1 35:1 52:1 53:1 61:1 90:1 94:1 103:1
+finally: finally  133:2
+find: find finding found  90:1 106:1 84:1 3:1 98:1
+fingernails: fingernails  140:1
+finger: fingers  44:1 48:1 136:1
+fire: fire firing  17:1 36:1 43:1 49:1 72:1 76:1 87:1 94:1 95:1 104:6 111:2 120:1 126:1 132:1 138:3 141:1 49:1
+fire's: fire's  102:1
+first: first  26:1 43:3 138:6 142:1
+fistful: fistful  127:1
+fists: fists  104:2
+fittest: fittest  110:1
+five: five  138:1
+fix: fix  14:1
+flag: flag flags  104:3 104:2
+flak: flak  49:1
+flame: flame flames  5:1 117:1 131:1 5:1 17:1 37:1 43:2 69:1 102:1 120:1 138:1
+flammam: flammam  117:1
+flap: flapping  23:1
+flashbacks: flashbacks  3:1
+flash: flashing  7:1
+fleet: fleeting  90:1
+flesh: flesh  14:1 20:1 28:1 32:1 37:1 39:2 51:1 56:1 63:2 69:1 79:1 88:1 90:1 99:1 111:4 113:1 124:1 132:1
+fly: flies fly flying  135:4 27:3 37:1 49:8 69:1 107:2 132:1 49:1 83:1
+float: floating floats  14:1 80:1
+floor: floor  132:1
+flow: flow flows  128:1 83:2
+fo: fo  23:1
+foam: foaming  134:1
+fodder: fodder  20:1 32:1 51:1 67:1
+foder: foder  94:1
+foe: foe  119:1
+follow: follow followed  21:1 43:1 53:1 67:2 26:1 98:1
+fool: fool fooling fools  2:1 64:1 130:1 63:1 46:1 57:1 63:1 67:1 70:1 134:1
+forbid: forbidden  14:1 43:1
+force: forced  47:1 103:1
+forcefeeding: forcefeeding  137:2
+forever: forever  2:1 15:1 60:1 61:1 73:1 78:3 84:1 114:1 135:6 137:3
+forevermore: forevermore  24:2
+forget: forget forgot forgotten  117:1 118:3 124:1 126:1 58:1 68:1 23:1 25:1 30:1 47:1
+forgive: forgive forgiven  117:1 118:2 58:1 68:1
+forlorn: forlorn  24:2
+form: form  28:1
+forth: forth  60:2
+forward: forward  121:1
+foulness: foulness  97:1
+fountain: fountain  24:1
+fountains: fountains  3:1
+four: four  3:1
+fragile: fragile  28:1 56:1
+free: free freed  1:1 4:1 21:1 23:1 27:2 41:1 53:1 56:1 85:1 93:1 98:1 105:1 110:3 120:1 135:1 140:3 120:1 132:1
+freedom: freedom  36:1 76:1 102:1 105:1
+freedomâs: freedomâs  94:1
+freewill: freewill  38:1
+freeze: freeze frozen  130:1 10:1 77:1 80:2
+friend: friend  119:1 136:4
+friendly: friendly  132:1
+frivolous: frivolous  73:1
+fruit: fruit fruits  7:1 43:1
+frustration: frustration  21:1 25:1 53:1 98:1 106:1
+fry: fry  130:1
+fuck: fucking  119:1
+fuel: fueled  133:1
+full: full  113:1 135:1
+fume: fumes  73:3
+fumo: fumo  117:1
+funeral: funeral  90:1
+fur: fur  132:1
+fury: fury  97:1
+future: future  1:1 7:2 15:2 17:1 24:1 58:2 68:2 105:1 106:1 120:1 125:1 126:1
+future's: future's  86:1
+futureâs: futureâs  89:1
+g: g  73:1
+gain: gain  58:1 68:1
+galleries: galleries  24:1
+gallows: gallows  16:1
+game: game games  19:1 42:3 48:2 57:1 64:1 70:1 75:1 83:1 85:1 93:1 102:1
+garden: gardens  4:1
+gate: gate gates  72:1 113:3
+gather: gathering  49:1
+give: gave give gives giving  83:1 99:1 72:1 127:2 141:1 20:1 32:1 51:1 78:1 58:1 68:1 83:1
+gavel: gavel  138:1
+gaze: gazes  138:2
+gel: gel  73:1
+gelatine: gelatine  73:1
+gender: gender  132:1
+generation: generation  65:4
+genocide: genocide  92:1 107:1
+get: get gets getting got  49:3 79:2 88:2 103:2 122:2 138:2 142:1 27:1 20:1 32:1 34:1 50:1 51:1 17:1 49:2 83:1 91:1 92:1 114:1 142:1
+ghost: ghost  98:1
+girl: girl  115:1
+glass: glass  44:1 136:1
+glaze: glazed  73:1
+glide: glides  48:3
+glitter: glittering  64:1
+gloom: gloom  9:1 35:1 52:1 120:1
+glorious: glorious  40:2 140:1
+glory: glory  23:1 61:1 94:1 106:1
+glue: glue  73:4
+glutenate: glutenate  73:1
+glutton: glutton  127:1
+go: go goes going gone went  25:1 61:1 105:1 106:1 115:1 124:1 132:1 133:3 135:6 136:4 141:1 49:1 140:1 15:1 49:2 114:1 9:1 25:1 35:1 42:1 52:1 102:5 106:1 126:1 126:1
+goal: goal  113:1
+god: god  2:1 3:1 9:1 26:1 30:1 35:1 39:1 52:1 71:1 72:1 82:3 92:1
+god's: god's  12:1
+godless: godless  101:1 109:1 110:2
+gods: gods  90:1 105:5
+golden: golden  134:1 138:1
+gonna: gonna  34:1 50:1 115:2
+good: good  87:1 121:1 122:2
+goodbye: goodbye  133:1
+gossow: gossow  36:1 89:1 90:1 91:1 94:1 95:1 97:1 98:1 99:1
+gossowmichael: gossowmichael  39:1 43:1
+gotta: gotta  49:1
+gown: gown  108:1
+grab: grab  130:1
+grace: grace  58:1 68:1
+grave: grave  26:1 80:4 86:1 89:1 92:3 106:1 114:1 127:1
+graveyard: graveyard  123:1
+great: great  12:1 40:2 98:2
+greater: greater  26:1 98:1
+greed: greed  12:1
+greet: greets  21:1 53:1
+grey: grey  132:1
+grief: grief  2:1 9:1 35:1 52:1
+grip: grip gripping  21:1 39:1 53:1 120:1 103:1
+griskin: griskin  73:1
+groats: groats  73:1
+grind: ground  63:1 85:1 93:1 106:1 127:1 142:1
+grow: grow growing  37:1 69:1 38:1
+guardians: guardians  23:1 37:2 69:2
+guard: guards  138:2
+guide: guide  27:1 138:1
+guilt: guilt  19:1 41:1 121:1
+guitar: guitar  45:2 96:1
+guitat: guitat  96:1
+gum: gum  73:2
+gun: gun guns  138:1 49:2
+ha: ha  132:1
+hail: hail  72:2
+halfway: halfway  34:1 50:1
+halls: halls  24:2 126:1 140:1
+halve: halves  137:1
+hand: hand hands  48:1 56:1 19:1 76:1 86:4 89:4 127:1
+hangman: hangman  34:1 50:1
+happen: happen happened  59:1 34:1 50:1
+harbinger: harbinger  12:1
+hard: hard  19:1 121:1 124:1
+harder: harder  79:1 88:1
+harm: harm  72:1
+harmony: harmony  35:1 39:1 41:1 89:1 90:2 91:1 92:1 93:1 97:1 102:1 103:1 104:1 113:3
+harris: harris  11:1
+hate: hate  2:1 20:1 29:2 32:1 40:1 43:1 47:1 51:1 56:1 58:1 60:1 68:1 75:1 86:1 89:1 97:3 98:1 104:1 117:1 118:1 124:1 136:1 141:1
+hatred: hatred  21:1 38:1 53:1 56:2 86:1 89:1 106:1 133:1 136:2
+haunt: haunt haunting  19:1 29:1 16:1 63:1
+he's: he's  12:1
+head: head heading heads  16:1 49:1 71:1 87:1 99:1 105:1 49:1 71:1
+heal: healing heals  41:1 117:1 118:1
+hear: hear heard  59:2 61:1 72:1 78:4 95:1 107:1 108:1 122:5 102:1 132:1 142:1
+heart: heart  15:1 26:1 38:5 39:1 48:2 77:2 87:1 99:2 105:4 111:2 118:1 122:1 128:1 132:3 136:1 140:3 142:1
+heartaches: heartaches  2:1
+heartbeat: heartbeat  110:1
+hearts: hearts  65:1 76:1
+heat: heat  5:1 43:1 115:1 132:3
+heaven: heaven  10:1 27:1 135:1 141:1
+heavens: heavens  5:1 71:1
+heavy: heavy  99:1 107:1 120:1 121:1
+heavy's: heavy's  137:1
+heed: heed  102:1
+heirs: heirs  15:1
+hold: held hold holds  128:2 41:1 61:1 111:3 136:1 15:1 78:2
+hell: hell  1:1 10:1 25:1 42:2 43:1 58:1 68:1 90:1 92:1 97:1 99:1 113:1 114:1 128:2 135:1 138:10 141:11
+hell's: hell's  4:1
+hellish: hellish  119:2
+help: help  103:3
+helpless: helpless  36:1
+herd: herd  17:1 135:1
+here's: here's  48:2
+hereby: hereby  14:1
+heroes: heroes  63:2
+heros: heros  63:1
+hesitate: hesitate  19:1
+hide: hide hiding  9:1 35:1 52:1 60:1 121:1 133:2 60:1
+hideous: hideous  19:1
+high: high  14:1 20:1 28:1 30:1 32:1 40:2 43:1 48:3 49:3 51:1 82:1 83:1 126:2 133:2
+higher: higher  17:1 37:2 40:1 60:1 69:2
+history: history  120:1 126:2
+hit: hits  59:1 126:1
+hole: hole holes  133:2 1:1 23:1
+hollow: hollow  19:1 25:1
+holocaust: holocaust  94:1
+holy: holy  26:1 39:1
+home: home  12:1 58:1 68:1 87:1 106:2 138:1
+honesty: honesty  124:1
+honour: honour  24:1
+hook: hooked  138:3
+hope: hope  15:1 17:1 21:1 36:1 48:1 53:1 77:1 98:1 125:1
+hopeless: hopeless  15:1 95:2
+hop: hopes hoping  56:1 106:3 121:1
+horizon: horizon  95:1
+horrific: horrific  7:1
+horrify: horrifying  107:1
+horror: horror  17:1 94:1
+hostile: hostile  95:1
+hour: hour  80:2 140:1
+hours: hours  21:1 53:1 84:1
+human: human  2:1 5:1 24:2 28:1 67:1 73:1 82:3 117:1
+humanity: humanity  133:1
+humanum: humanum  117:1
+hunger: hunger  87:1
+hungry: hungry  4:1 115:1 130:1
+hunt: hunt hunting  15:1 30:1 79:1 88:1 39:1
+hunter: hunter  119:1
+hurt: hurt hurting  23:1 75:1 98:1 136:1
+hurtful: hurtful  91:1
+hybrids: hybrids  81:1 82:1
+hydra: hydra  18:1 33:1 54:1
+hypnotize: hypnotize  23:1
+hypocrisy: hypocrisy  76:1
+i'll: i'll  3:1 4:1 27:1 87:2 118:2 122:2 137:4 141:2
+i'm: i'm  2:1 9:1 25:2 34:1 35:1 44:1 50:1 52:1 67:6 75:1 87:1 122:3 127:1 130:6 137:1 140:4 142:3
+i've: i've  34:1 50:1 114:1 122:1 138:1 142:1
+ice: ice  43:1 107:1
+ideals: ideals  133:1
+ideas: ideas  110:1
+ides: ides  11:1
+idolatress: idolatress  4:1
+ignite: igniting  138:3
+ignorance: ignorance  37:1 57:1 69:1 70:1 127:1
+ignoscere: ignoscere  117:1
+ill: ill  80:1
+illfated: illfated  65:2
+illusion: illusion  16:1 23:1 38:1
+illusions: illusions  77:1
+image: image images  27:1 3:1
+immaculate: immaculate  40:1
+immortal: immortal  24:1 26:1 61:1 90:1
+immortality: immortality  24:1
+immortals: immortals  24:2
+implosion: implosion  77:1
+imprison: imprisoned  4:1
+incarcerate: incarcerated  138:2
+incarnate: incarnate incarnated  15:1 73:1 73:1
+incense: incense  20:1 32:1 51:1
+inch: inch  120:2
+increase: increases  2:1
+indignation: indignation  113:1
+infamous: infamous  61:1
+infantile: infantile  60:1
+infect: infected  65:2
+inferno: inferno  119:2
+infestation: infestation  113:1
+infest: infested  60:3
+infiltrate: infiltrated  118:3
+infinite: infinite  20:1 32:1 51:1 99:1
+inflate: inflated  127:1
+ingest: ingesting  132:1
+inherit: inherit  103:1
+inject: injected  75:1
+ink: ink inked  120:1 128:1 138:1
+inner: inner  14:1 23:1 118:1
+innocence: innocence  111:2
+innocent: innocent  37:1 69:1 95:1 106:1 138:1
+insalubrious: insalubrious  73:1
+insane: insane  140:3
+insanity: insanity  2:3 14:1
+insects: insects  15:1
+inside: inside  4:1 16:1 25:2 29:1 38:2 43:1 56:1 94:1 98:1 99:2 102:1 106:3 114:1 119:3 122:2
+insides: insides  79:2 88:2
+insincere: insincere  141:1
+instant: instant  14:1
+instantly: instantly  83:1
+instinct: instinct  43:1 59:2
+instrumental: instrumental  6:1 8:1 11:1 13:1 18:1 22:1 33:1 45:1 54:1 55:1 62:1 66:1 74:1 81:1 101:1 109:1 112:1 131:1 139:1
+instrumentalmusic: instrumentalmusic  123:1 129:1
+intenacious: intenacious  73:1
+intense: intense  28:1 40:2
+intensify: intensify  26:1
+interest: interest  111:2
+intermezzo: intermezzo  96:1
+internal: internal  75:1 132:1
+intersect: intersecting  73:1
+intricate: intricate  111:1
+intro: intro  99:1 111:1 114:1 117:1
+invisible: invisible  122:2
+iron: iron  49:1 72:1
+isolation: isolation  25:1
+j: j  16:1 17:1 21:2 34:1 35:1 53:2
+jacobs: jacobs  34:1
+japan: japan  18:1 20:1 21:1 34:1 35:1 100:1
+jesus: jesus  39:1
+jettison: jettison  132:1
+job: job  115:1
+johan: johan  2:1 4:1 9:1 10:1 52:1
+join: join joined  97:1 135:1
+joke: jokes  122:2
+journey: journey  9:1 35:1 46:1 52:1 77:1 80:1 90:1
+journey's: journey's  136:1
+joy: joy  29:1 106:1
+judas: judas  48:1
+judge: judge judging  60:2 19:1 122:1
+jump: jump  49:1
+jungle: jungle  12:1
+justice: justice  16:1 92:1 106:1 134:1
+justify: justify  127:1
+karma's: karma's  127:1
+keep: keep keeping kept  24:2 38:1 92:1 136:4 140:1 140:3 111:1
+keeper: keeper  86:2 89:2
+key: key  24:1 114:1
+khaos: khaos  101:2
+kill: kill killed killing kills  38:1 65:2 72:8 79:1 88:1 105:1 114:2 115:1 119:1 126:1 141:1 26:1 119:1 16:2 24:1 36:2 56:1 124:2 12:1
+kind: kind  138:3
+kingdom: kingdom  7:1 14:1 94:1
+kings: kings  106:1
+kiss: kiss  43:1 61:1 100:1
+knees: knees  2:1 20:1 32:1 51:1 67:2 103:2 119:1
+know: knew know knowing known knows  64:1 114:1 9:2 15:1 19:2 26:2 29:1 35:2 52:2 61:1 91:1 99:1 114:1 119:1 121:7 122:11 124:1 127:1 136:3 141:5 142:3 38:1 83:1 80:1 122:1 3:1 30:1 126:1 133:3
+knife: knife  124:1
+knowledge: knowledge  3:1 120:1
+label: labels  132:1
+labour: labour  73:1
+lacerate: lacerate  39:1
+laceration: laceration  113:1
+lair: lair  12:1
+lake: lake  17:1
+lament: lament laments  47:3 72:1 86:1 89:1
+land: land  15:1 17:1 58:1 68:1 97:1
+lap: lap  24:1
+last: last  3:2 15:1 25:1 26:1 90:3 105:1 114:1 125:1 138:1 142:1
+late: late  9:1 19:1 20:1 32:1 35:1 49:1 51:1 52:1 85:1 93:1
+laugh: laugh laughing  132:1 137:1 37:1 60:1 69:1 78:2 140:1
+laughter: laughter  106:1
+law: law  19:1
+lawgiver: lawgiver  40:1
+laws: laws  23:1
+lay: lay  141:1
+layer: layered  107:1
+lead: lead leading leads led  1:1 2:1 3:2 4:2 5:3 7:2 8:1 10:5 21:2 24:2 34:2 35:5 36:2 37:2 38:2 39:3 41:4 42:2 43:1 44:1 45:1 46:3 47:2 48:1 53:2 69:2 73:2 83:1 89:2 90:2 91:3 92:3 93:2 94:6 95:3 96:1 97:2 98:2 99:5 102:4 103:2 104:1 106:1 107:1 110:3 111:5 113:4 114:2 133:1 142:1 3:1 36:1 71:1
+leader: leader  60:3
+leaders: leaders  63:2 132:1
+learn: learn learned  124:1 127:1 31:1 121:1
+learningâ¦: learningâ¦  118:1
+leash: leash  134:1
+leave: leave leaves leaving left  25:1 41:1 61:1 63:1 64:1 98:1 105:3 107:1 115:1 140:3 141:1 77:1 2:1 34:1 50:1 7:1 16:1 29:1 34:1 36:1 50:1 59:1 84:1 91:1 95:1 99:2 107:1 113:1 120:1 121:1
+legacy: legacy  108:1
+legend: legend  61:1 79:1 88:1
+legion: legion  76:1 110:1
+legions: legions  101:1 104:6
+length: length  125:1
+less: less  59:4 141:3 142:1
+lesson: lesson  31:1 121:1
+let: let letting  12:1 16:3 21:1 27:4 34:1 49:1 50:1 53:1 102:1 104:3 107:4 110:4 120:1 126:1 128:2 136:1 141:1 137:1
+let's: let's  48:1
+liar: liar  111:4 121:2
+liberation: liberation  113:1
+libero: libero  98:1
+liberty: liberty  92:1
+libertã©: libertã©  96:1
+lick: licking  37:1 69:1
+lie: lie lies lying  25:1 63:1 92:1 107:2 141:1 7:1 31:1 37:2 42:4 60:2 64:1 69:2 75:1 86:1 89:1 91:1 98:2 103:1 111:1 113:1 118:1 122:1 124:1 133:1 135:2 140:1 142:1 126:1
+life: life  1:1 2:1 3:2 5:2 7:2 9:2 10:2 16:2 19:1 21:1 24:4 26:2 27:2 28:1 35:2 36:1 39:2 40:1 44:1 47:1 52:2 53:1 59:1 60:2 64:2 67:1 79:1 80:2 83:1 88:1 92:1 95:1 99:1 107:1 110:1 119:1 124:2 132:1 134:1 135:1 136:1 138:1 142:1
+life's: life's  21:1 53:1
+lifeline: lifeline  89:2
+lifetime: lifetime  48:2 86:2
+light: light lights  9:1 15:1 35:1 41:1 47:1 52:1 77:1 97:2 98:2 102:1 106:1 111:2 128:1 134:1 136:1 141:1 142:1 138:3 140:1
+lightyear: lightyear  48:1
+liiva: liiva  2:2 4:2 9:1 10:1 16:1 17:1 21:2 35:1 52:1 53:2
+like: like  1:1 3:1 5:1 12:1 15:1 25:1 27:1 34:1 37:2 40:1 50:1 69:2 71:3 72:1 77:1 82:2 97:3 98:1 101:1 119:4 121:1 126:3 128:2 130:10 132:4 136:1 142:1
+line: line lines  15:1 64:3 120:1 119:1
+linger: linger  121:1
+lips: lips  114:1
+liquid: liquid  23:1 24:1 39:1
+lissom: lissom  73:1
+listen: listen  136:3 140:3
+little: little  48:2
+live: live lived lives living  4:1 7:1 9:1 34:1 35:1 49:8 50:1 52:1 69:1 70:1 87:2 88:1 91:2 106:2 110:3 21:1 53:1 138:1 142:1 60:1 94:1 4:1 10:1 19:1 24:1 38:1 61:1 63:1 67:2 84:1 106:1 141:1
+load: loaded  105:1
+lobotomize: lobotomize  132:1
+lock: locked  24:1 36:1 105:1 114:1
+logic: logic  125:1
+lonely: lonely  121:1
+lonesome: lonesome  127:1
+long: long  3:1 23:2 25:2 30:1 77:2 92:1 107:1 113:2 121:1 129:1
+longer: longer  14:1 23:2 28:1 38:1 41:1 120:1 122:2
+look: look looking  48:2 57:1 59:1 70:1 91:2 108:1 124:1 17:1 26:1
+loose: loose  132:3
+lose: lose losing lost  113:1 10:2 21:1 23:1 53:1 56:1 85:1 93:1 97:1 119:3 4:1 15:1 16:1 17:1 23:1 27:2 64:1 75:1 82:1 84:1 85:2 91:1 93:2 95:1 97:1 99:1 102:1 106:3 107:1 111:4 121:1
+loser: loser  130:1
+loss: loss  78:2 80:2
+loud: loud  105:1
+love: love loved  3:1 7:1 14:1 20:1 27:1 32:1 43:1 44:1 51:1 60:1 87:1 3:1 5:1
+luck: luck  119:1
+lunacy: lunacy  16:1
+lure: lured  20:1 32:1 51:1
+lurk: lurking  23:1
+luscious: luscious  14:1
+lust: lust  12:1 30:1 43:1
+lye: lye  132:1
+lyric: lyrics  1:1 2:1 3:1 4:1 5:1 7:1 9:1 10:1 11:1 12:1 14:1 15:1 16:1 17:1 19:1 20:1 21:1 23:2 35:2 36:1 37:1 38:1 39:1 40:1 42:1 43:1 44:1 46:1 51:1 52:1 53:1 54:1 67:1 73:1 84:1 88:1 89:1 90:1 91:1 92:1 93:1 94:1 95:1 97:1 98:1 99:1 100:1 116:1 117:1 118:1 119:1 120:1 121:1 122:1 124:1 125:1 126:1 127:1 128:1 130:1 142:1
+macabre: macabre  7:2
+machine: machine  5:1 58:1 68:1 74:1 82:1 85:1 93:1
+machtskampf: machtskampf  83:1
+make: made make makes making  5:1 124:1 140:1 141:2 12:1 83:2 105:2 108:1 115:1 137:1 28:1 30:1 92:2 125:1 97:1 128:2
+madness: madness  16:1 106:1
+maiden: maiden  49:1
+maim: maimed  26:1
+mainstream: mainstream  49:1
+maker: maker  40:1
+malicious: malicious  76:1
+malt: malting  132:1
+man: man  5:1 9:1 12:3 14:1 17:3 19:2 26:2 29:1 35:1 52:1 71:2 82:1 97:1
+manipulation: manipulation  65:1
+mankind: mankind  97:1
+mankindâs: mankindâs  97:1
+manowar: manowar  72:1
+mans': mans'  39:1
+many: many  110:3 115:1 119:1
+march: march marches marching  11:1 104:2 41:1 58:1 62:1 68:1 104:6
+mar: mares  99:1
+marionettes: marionettes  71:1
+mark: mark  1:1 61:1
+marrow: marrow  73:1
+marty: marty  71:1
+martyr: martyr  127:1
+masquerade: masquerade  42:1
+mass: mass  110:1
+master: master masters  14:1 20:1 32:1 51:1 92:1 111:2 135:1 65:1 105:5
+match: matching  141:1
+matter: matter  119:1 132:1
+maybe: maybe  31:1 48:1
+maze: maze  92:1
+mean: mean meant  4:1 31:1
+mechanic: mechanic  82:3
+media: media  64:1
+medicine: medicine  140:3
+mediocrity: mediocrity  57:1 70:1
+medusa: medusa  20:2 32:2 51:2
+meek: meek  103:1
+meet: meet met  40:1 115:1 126:1
+megadeth: megadeth  71:1
+melodies: melodies  9:1 35:1 52:1
+melody: melody  46:1 56:1 90:1 95:3 102:1 107:3 110:3 111:3 114:2 128:1
+memories: memories  2:1 7:1 16:1 29:1 42:1 58:1 68:1 114:1 120:1
+memory: memory  91:2 99:1 126:1
+men: men  16:1 26:1 28:1 138:1
+mental: mental  85:1 93:1
+mephisto: mephisto  14:3
+mercy: mercy  10:1 46:1
+merely: merely  138:1
+messiah: messiah  15:1 40:4 65:1
+metal: metal  71:1
+michael: michael  1:3 2:1 3:3 4:2 5:3 6:1 7:3 9:2 10:2 21:1 34:1 35:4 36:1 37:3 38:3 39:3 40:2 41:2 42:3 43:1 44:2 45:2 46:2 47:1 52:2 53:1 69:1 89:6 90:5 91:3 92:4 93:4 94:4 95:6 96:2 97:3 98:2 99:5 102:3 103:1 104:1 106:1 107:2 110:2 111:6 113:4 114:3 117:2 118:2 119:2 120:1 121:1 122:2 124:2 125:1 126:1 127:1 128:2 129:1
+might: might  9:1 35:1 52:1 87:1
+mighty: mighty  40:2
+mike: mike  103:1 130:1
+miles: miles  48:1
+milky: milky  27:1
+millenary: millenary  17:1
+millions: millions  19:1
+mind: mind minds  4:1 10:1 14:1 36:2 38:1 48:2 63:1 75:1 80:1 87:1 95:1 113:1 121:1 134:4 15:1 21:1 23:1 37:2 53:1 60:3 69:2
+mindâs: mindâs  98:1
+mine: mine  39:1 75:1 87:1 92:1 113:3 118:1
+minor: minor  117:1
+miracle: miracle  17:1
+mirror: mirror  44:1 91:2
+misconstrue: misconstrue  132:1
+misery: misery  4:1 25:1 106:1 120:1
+mislead: misled  65:4
+misplace: misplaced  124:1
+miss: miss  95:1
+missiles: missiles  133:1
+mistake: mistakes  2:1 121:1
+mistress: mistress  20:1 32:1 51:1
+mistrust: mistrust  58:1 68:1
+misunderstand: misunderstood  122:2
+mock: mocked  83:1
+mockery: mockery  106:1
+moment: moment  23:1 128:2
+money: money  133:1
+monster: monster  133:1
+month: month  138:1
+monuments: monuments  84:1 106:1
+moon: moon  27:1 37:1 69:1
+morality: morality  37:2 69:2
+morbid: morbid  61:1 77:1
+morning: morning  27:1 87:1 99:1
+mortal: mortal  14:1 47:3 61:1 71:1
+mortals: mortals  46:1
+moth: moth  5:1
+motion: motion  85:1 93:1
+mourn: mourned  80:1
+mouth: mouth  134:1
+move: move  49:3
+much: much  26:1 28:1 34:1 50:1 87:1 133:1 134:3
+mucilage: mucilage  73:1
+mundane: mundane  80:1
+murder: murder  107:1 137:4
+murky: murky  124:1
+music: music  1:1 2:1 3:1 4:1 5:1 6:1 7:1 8:1 9:1 10:1 11:1 12:1 13:1 14:1 15:1 16:1 17:1 18:1 19:1 20:1 21:1 22:1 23:1 35:1 36:1 37:1 38:1 39:1 40:1 42:1 43:1 44:1 45:1 46:1 51:1 52:1 53:1 54:1 89:1 90:1 91:1 92:1 93:1 94:1 95:1 96:1 97:1 98:1 99:1 117:1 118:1 119:1 120:1 121:1 122:1 124:1 125:1 126:1 127:1 128:1
+must: must  39:1 56:2 99:1 114:1 142:15
+mysteries: mysteries  21:1 53:1
+mystical: mystical  1:2
+mythomaniac: mythomaniac  132:3
+nail: nails  141:1
+name: name names  47:1 102:1 104:1 122:9 137:3 138:1
+nameless: nameless  106:1
+nation: nation  63:2 94:2 138:2
+nations: nations  94:2
+natural: natural  110:1
+nature: nature  23:1 97:1
+navigate: navigate  124:1
+near: near  16:1 77:2 80:1 94:1 103:2 125:2
+neck: neck  4:1
+necropolis: necropolis  106:1
+necroticism: necroticism  73:1
+need: need needs  9:1 24:1 25:1 35:1 39:1 52:1 87:3 132:1
+neglect: neglected neglecting  65:2 77:1
+nemesis: nemesis  76:3
+never: never  9:1 19:3 21:2 24:2 27:2 31:1 35:1 37:1 42:1 46:1 48:2 52:1 53:2 60:1 61:2 65:4 67:6 69:1 83:1 85:1 92:1 93:1 98:1 114:1 118:7 121:3 122:2 124:1 132:3 133:1 135:1 140:2
+new: new  21:1 28:3 48:1 53:1 58:1 65:4 68:1 76:1 83:2 110:1 125:1
+newborn: newborn  15:1
+next: next  124:1
+night: night  14:1 15:1 30:1 38:1 43:1 87:1 92:3 97:3 111:2 115:1 131:1 134:1 138:1 140:1
+nights: nights  16:1
+nihil: nihil  117:2
+nobody: nobody  1:1 132:1 133:3 141:3
+nocturnal: nocturnal  1:1
+nocuosly: nocuosly  73:1
+noli: noli  117:2
+none: none  34:1 50:1 59:1 72:1
+nordstrom: nordstrom  18:1 22:1 54:1
+norm: norm  135:1
+nothing: nothing  29:1 36:1 43:1 44:2 56:3 57:1 59:4 63:2 70:1 80:1 107:1 117:1 118:1 120:1 125:6 128:2 136:1
+nothingness: nothingness  47:1
+nowhere: nowhere  83:1 106:1 121:1 133:4
+noxious: noxious  73:1
+numb: numb  98:1
+number: numbers  12:1 138:1
+o'clock: o'clock  49:1
+oath: oath  100:1
+obey: obey  135:1
+obliterate: obliterate  37:1 69:1
+oblivion: oblivion  46:1 47:1 61:1
+oblivisci: oblivisci  117:1
+obsolete: obsolete  82:2
+obstacles: obstacles  125:1
+obvious: obvious  125:1
+odin: odin  72:1
+odire: odire  117:1
+oil: oils  73:1
+old: old  19:1 23:2 25:1 103:1 130:1
+oldfieldshadow: oldfieldshadow  130:1
+oncesosacred: oncesosacred  137:3
+one: one  4:1 5:1 15:1 26:1 27:1 48:1 64:2 76:3 87:2 94:2 105:1 110:5 111:2 114:1 126:1 132:3 138:1 140:1 142:6
+ones: ones  46:2 59:1 63:1 72:1
+open: open opening  21:1 53:1 63:1 72:1 118:1 122:1 113:3
+operant: operant  132:1
+opponent: opponent  76:1
+oppress: oppressed  132:1
+orchestrate: orchestrated  118:2
+orgy: orgy  14:1
+original: original  35:1 71:1 72:1 73:1
+ot: ot  19:1
+others: others  9:1 35:1 47:1 52:1 60:2 87:1
+outro: outro  90:1 91:1 93:1 99:1 102:1 107:1 111:1 114:1
+outside: outside  21:1 53:1 64:1 140:1
+overrate: overrated  23:1
+overture: overture  101:1
+pace: paces  138:2
+page: page pages  25:1 120:1 134:1 34:1 50:1 120:6
+pay: paid pay paying  92:1 5:1 34:1 50:1 94:1 107:1 124:1 140:1 24:1
+pain: pain  7:2 10:1 20:1 32:1 42:1 44:2 51:1 56:2 59:1 72:1 78:2 91:1 94:1 98:1 99:1 114:1 127:1 137:1
+pain's: pain's  87:1
+painful: painful  63:2
+paint: paint  124:1
+panic: panic  94:1
+paper: paper  120:1
+paradise: paradise  48:1 107:1
+paradox: paradox  21:1 53:1
+paralell: paralell  14:1
+paralyse: paralysed  10:1 56:1 65:1
+paralyze: paralyzing  98:1
+paranoia: paranoia  21:1 53:1
+parasites: parasites  65:1
+part: part  16:1 38:2 46:1 85:1 93:1
+pass: pass passed passing  120:1 125:1 115:1
+passion: passion  28:1
+passionate: passionate  43:1
+past: past  2:1 3:1 7:2 41:1 67:2 84:1 90:1 114:6 120:2 125:2
+path: path  47:1 121:1 125:1 134:1 135:1
+pathetic: pathetic  59:1 60:1
+paths: paths  83:1
+patience: patience  99:1
+pawn: pawn  12:1 19:1
+peace: peace  98:1 106:1 118:1 121:1 125:1 127:2 141:1
+peaceful: peaceful  71:1
+pebbles: pebbles  125:1
+pellucid: pellucid  73:1
+pen: pen  120:1
+people: peoples  71:1
+perfect: perfect  61:1 105:1 114:1 122:2
+perfection: perfection  67:1
+perform: performing  28:1
+perish: perish  5:1
+permanently: permanently  138:1
+perversion: perversion  14:1
+pervert: perverted  65:1 103:1
+phase: phases  42:1
+philistine: philistine  76:1
+phoenix: phoenix  40:1 101:1
+pick: pick picked picking picks  78:1 141:1 142:1 105:1 99:1 132:1 48:1
+pied: pied  71:1
+pilgrim: pilgrim  26:3
+pills: pills  44:1
+piper: piper  71:1
+pit: pit  16:1
+place: place places  9:2 34:4 35:2 50:4 52:2 86:1 89:1 98:2 105:1 114:1 132:1 137:3 140:1 141:1 9:1 35:1 52:1 59:1
+plain: plain  60:1
+plan: plan  127:1
+planet: planet  5:1 17:1
+plant: planted  29:1
+plastic: plastic  108:1
+play: play playing  19:1 42:2 64:1 85:1 93:1 106:1 57:1 70:1
+please: please  60:1
+pleasure: pleasure  20:1 32:1 51:1 127:1
+pleasures: pleasures  14:1
+plot: plotting  140:3
+pointless: pointless  42:1
+poison: poison poisoned  97:1 128:2 3:1 138:2
+pool: pool  120:1
+poorest: poorest  106:1
+possess: possessed possesses  98:1 43:1
+postmortem: postmortem  61:1
+pound: pounding  39:1
+pour: pours  23:1
+power: power powers  27:1 72:2 83:2 102:1 103:1 120:1 128:2 134:1 71:1 135:5
+powerdie: powerdie  72:4
+powerwith: powerwith  72:1
+pray: pray praying  72:1 97:1 103:2
+prayer: prayer  15:1
+prayers: prayers  103:3
+preacers: preacers  63:1
+preachers: preachers  63:1
+prechorus: prechorus  9:1 35:1 52:1 102:3
+precious: precious  95:1
+prelude: prelude  117:1
+premeditate: premeditated  126:1
+preordain: preordained  85:2 93:2
+prepare: prepare prepared  16:1 2:1 15:1
+presence: presence  137:3
+present: present  125:1 134:1
+preserve: preserve  108:1
+press: press  49:1
+pressure: pressure  87:1
+pretense: pretense  141:1
+pretty: pretty  25:1
+prevail: prevails  16:1
+prey: prey  17:1 119:1
+price: price  24:1 28:1 34:1 50:1 92:1 94:1 107:1 108:1
+pride: pride  27:1 92:1
+priest: priest  34:1 48:1 50:1
+primates: primates  12:1
+prison: prison  136:1
+prisoner: prisoner  130:1
+private: private  25:1
+process: process processed  121:1 75:1
+profanity: profanity  133:1
+profit: profit  133:1
+progress: progress  108:1 127:1
+promise: promise promised promises  134:1 15:1 31:1
+propaganda: propaganda  110:1
+prophets: prophets  110:1 133:1
+protocols: protocols  126:1
+proud: proud  19:1 105:1 107:1
+prove: prove  113:2
+provoke: provoking  38:1
+psychodoor: psychodoor  36:1
+pull: pull pulling  94:2 125:1 118:3
+pulse: pulse  71:1
+punish: punishing  16:1
+punishment: punishment  127:1 138:1
+puppet: puppet  19:1
+puppets: puppets  63:1
+pure: pure  4:1
+purge: purge  121:1
+pursuer: pursuer  111:2
+push: push  130:2
+put: put  71:1
+puzzle: puzzle  3:1
+pî¿wers: pî¿wers  135:1
+queen: queen  20:1 30:1 32:1 51:1
+queensryche: queensryche  87:1
+quest: quest  90:1
+question: question questioned  1:1 132:1 46:1
+quick: quick  60:2
+quietus: quietus  73:1
+quo: quo  134:1
+race: race  65:1 82:1 90:1 132:2
+rage: rage  2:1 134:1
+raid: raid  49:1
+railroad: railroad  138:1
+rain: rain  29:1
+rainbow: rainbow  44:1
+raise: raise raised raises  101:1 141:10 134:1 30:1
+run: ran run running runs  95:1 121:1 34:1 49:4 50:1 72:1 94:1 132:1 133:4 134:1 44:1 49:1 86:2 89:2 97:1 132:2 133:2 76:1 90:1 92:1 94:1 128:1
+rat: rats  37:2 60:3 69:2 71:1
+rattle: rattling  102:1
+ravage: ravage ravaged  14:1 58:1 68:1
+raven: raven ravens  37:1 69:1 107:4 37:1 69:1 107:2
+ravenous: ravenous  39:2
+ray: rays  15:1
+raze: razed  73:1
+reach: reach reaching  44:1 83:1 102:2
+read: read  34:1 50:1
+ready: ready  102:1 104:6 105:1
+real: real  83:1 132:1
+reality: reality  14:1 21:1 44:1 53:1 56:1 95:1 103:1 110:1 120:1 126:1 137:2
+realize: realize  20:1 32:1 51:1 132:1
+really: really  5:1 15:1 44:1 46:1 124:1 134:4
+reap: reap  7:1
+reason: reason  136:12 138:2
+reave: reaving  73:1
+rebel: rebel rebels  105:3 15:1
+rebellion: rebellion  68:1 70:1 104:1
+reborn: reborn  28:1 40:1 61:1
+reckon: reckoning  102:2
+recognize: recognize  118:1
+recover: recover  78:1
+red: red  94:1 97:3 102:1 128:1
+reflection: reflection  44:1
+refugees: refugees  46:1
+refuse: refuse  42:1 137:4
+regret: regret regrets  10:1 98:1 118:1 121:1 137:2 121:7
+reign: reign reigns  94:1 110:4 30:1
+reincarnation: reincarnation  61:1 78:1
+reject: reject rejected rejecting  126:1 135:1 65:2 120:1
+relax: relax  64:1
+relentless: relentless  95:2
+relic: relic  82:2
+relief: relief  103:1
+rely: rely  15:1
+remain: remain remains  72:1 121:1 125:2 73:2 95:1 99:1 134:1
+remember: remember remembered remembering  86:1 87:1 89:1 107:2 119:3 132:1 46:1 2:1
+remorseless: remorseless  95:2
+remove: remove  49:1
+render: rendered  82:2
+repeat: repeat  126:1 132:1
+repent: repent  77:1
+replace: replaced  47:1
+represent: represent  1:1
+reproduce: reproduce  132:1
+repulse: repulse  77:1
+requiem: requiem  86:1 89:1
+residue: residue  73:1
+resignation: resignation  9:1 35:1 52:1
+resist: resist  105:1
+resistance: resistance  15:1
+respect: respect  132:1
+rest: rest  28:1
+restless: restless  128:1
+resurrection: resurrection  65:1
+retinas: retinas  137:1
+retribution: retribution  5:1 140:2
+retrospectives: retrospectives  10:1
+return: return returned returns  114:1 128:2 17:1 137:1
+reveal: revealing  7:1
+revel: revel  39:1
+revenge: revenge  113:1 127:1 140:3
+revolution: revolution  76:1 85:4 93:4 104:1 110:1
+rewrite: rewriting  120:1
+rhetoric: rhetoric  108:1
+rheumic: rheumic  73:1
+ride: ride  1:1 14:1 24:1
+ridicule: ridiculed  122:1
+rid: riding  43:1
+right: right rights  60:1 79:2 88:2 102:1 121:1 138:2 141:2 142:1 132:1
+rip: rip ripped ripping  120:1 126:1 20:1 32:1 51:1
+rise: rise rises rising  15:1 21:1 36:1 39:2 53:1 57:4 70:4 86:1 89:1 90:1 94:5 102:1 104:3 113:2 132:1 134:5 135:1 97:2 99:1 5:1 40:1 82:1
+ritual: ritual  16:1 30:1 39:1 61:1
+river: river  4:1 80:1
+road: road  58:1 62:1 68:1 84:1 85:2 93:2 121:1 133:2 141:3
+roam: roaming  84:1
+robot: robot  71:1
+roll: roll rolling  49:1 137:1 49:3
+romance: romance  10:1
+room: room  120:1
+root: roots  127:1
+rosad: rosad  19:1
+rot: rot rotting  64:1 90:1 7:1 42:2 140:1
+rotation: rotation  125:1
+rotten: rotten  106:1 124:1
+round: round  49:1 133:6
+row: row  16:1
+rug: rug  126:1
+ruin: ruined  1:1
+rule: ruled rules  19:1 20:1 32:1 51:1 134:1
+ruler: ruler  14:1
+rumble: rumble  71:1
+runneth: runneth  14:1
+runway: runway  49:1
+rust: rust  133:1
+sacred: sacred  12:1
+sacrifice: sacrifice sacrificed  1:1 16:1
+sad: sad  47:1
+sadness: sadness  9:1 35:1 52:1 106:1
+safe: safe  4:1 87:2
+safety: safety  9:1 35:1 52:1 106:1
+sail: sail  27:1
+saint: saint saints  67:6 67:1
+salt: salt  4:1
+salvation: salvation  15:1 56:1 98:1
+sanat: sanat  117:2
+sanctuary: sanctuary  9:1 35:1 52:1
+sand: sand sands  23:1 136:1 44:1
+sanity: sanity  23:1
+satan: satan  20:1 32:1 51:1
+satanica: satanica  20:2 32:2 51:2
+saturnine: saturnine  138:2 139:1
+savage: savage  40:3
+save: save saved  5:1 15:1 17:2 28:1 9:1 26:1 35:1 52:1
+savour: savour  73:1 121:3
+saw: saw  132:1
+say: say  15:1 19:1 23:1 25:1 34:1 50:1 87:3
+scar: scar scared scaring scarred scars  136:1 133:3 91:1 77:1 107:1 41:1 121:1
+scatter: scattered  75:1 77:1 107:1
+scene: scene  137:4
+science: science  28:3
+scientific: scientific  108:1
+scorpions: scorpions  115:1
+scramble: scramble scrambling  49:1 49:1
+scrape: scrape  141:2
+scratch: scratch  25:1
+scream: scream screaming screams  34:1 50:1 92:1 108:2 34:1 50:1 99:1 128:1 92:2 140:1
+screen: screen  133:1
+scriptures: scriptures  26:1
+scroll: scrolls  12:1
+scrutinize: scrutinized  75:1
+sculptor: sculptor  110:1
+scum: scum  60:1
+sea: sea  9:1 27:1 35:1 52:1 57:1 70:1
+seal: sealed  114:1
+search: search searching  99:1 118:1 119:3 9:1 26:1 35:1 52:1 121:1 132:1
+seas: seas  128:2
+second: second  57:1 59:1 60:2 70:1 105:1 120:1 126:1 137:1
+secret: secret  3:1 114:3
+secret's: secret's  87:1
+secrets: secrets  114:1 120:1
+sedate: sedated  59:1
+seducer: seducer  20:2 32:2 51:2
+see: see seen  21:1 23:1 29:2 31:1 34:3 42:2 44:1 50:3 53:1 58:2 59:2 61:2 67:5 68:2 75:1 78:1 86:2 89:2 90:1 91:2 107:2 114:1 118:1 122:6 127:2 128:4 132:1 137:1 138:2 140:4 29:1 48:2 59:2
+seed: seed seeds  29:2 38:1 65:1 135:1 20:1 32:1 51:1
+seek: seek seeking  9:2 35:2 52:2 27:1 58:1 68:1
+seem: seem  125:1
+seemingly: seemingly  128:2
+selection: selection  110:1
+self: self  14:1 64:1 113:3 136:2
+selfdestruction: selfdestruction  36:1
+sell: selling sold  15:1 26:1 64:1
+send: sending sent  49:1 138:1
+sense: sense senses  16:1 28:1 79:1 88:1 108:1 125:1 77:1
+senseless: senseless  47:1
+sentence: sentenced sentences  34:1 50:1 138:1 10:1
+sere: sere  73:1
+serenade: serenade  56:1
+serenity: serenity  17:1
+serpent's: serpent's  111:2
+servant: servant  37:1 69:1
+servants: servants  104:1
+serve: served  26:1
+set: set sets  1:1 21:1 27:2 41:1 48:2 53:1 56:1 85:3 93:3 97:1 131:1 135:1 140:3 16:1 46:1 64:1 97:1
+settle: settled  118:1
+sever: sever severed  120:1 107:1 111:2
+severe: severe  73:1
+sexual: sexual  14:1
+shadow: shadow shadows  21:1 53:1 79:1 88:1 98:1 130:18 141:4 37:1 46:3 61:1 69:1 77:1 80:1 87:5 113:2 118:1 142:1
+shadowbeast: shadowbeast  36:2
+shake: shake shaking  121:1 102:1
+shall: shall  1:1 5:1 7:1 26:2 39:1 103:1 107:2
+shallow: shallow  63:1 92:3
+shamble: shambles  73:1
+shambolic: shambolic  73:1
+shame: shame  67:3 107:1 121:1
+shape: shape  29:2
+share: share shared  7:1 42:1 42:1
+shark: sharks  124:1
+sharp: sharp  49:1 61:1 114:2
+sharpen: sharpened  127:1
+shatter: shatters  56:1
+she'll: she'll  20:2 30:1 32:2 51:2
+sheep: sheep  63:2
+sheep's: sheep's  118:1
+sheer: sheer  97:3
+shell: shell  25:1 36:1 42:2 61:1 72:1
+shelter: shelter  58:1 68:1 106:1 128:1
+shield: shield  72:1
+shift: shift  121:1
+shin: shin shines shining  90:1 61:1 41:1
+shine: shine  15:1 27:1 77:1 97:1 126:1
+ship: ship  46:1
+short: shorted  73:1
+shortness: shortness  80:1
+shoot: shot  64:1
+shoulder: shoulders  78:1
+shovel: shovels  127:1
+show: show  23:1 142:1
+shrine: shrine  106:1
+shun: shun  12:3
+shut: shut  103:2 140:1
+sick: sick  2:1 7:1 19:1 94:1 127:4 134:1
+sicken: sickening  30:1
+side: side  21:2 53:2 86:1 89:1 119:1 126:1
+sidewalks: sidewalks  48:2
+sight: sight  121:1 137:1
+sign: sign  5:1 23:1 37:1 69:1
+silence: silence silenced  90:1 99:1 110:1 120:2 122:1 77:1
+silent: silent  5:1 56:2
+silverwing: silverwing  27:3
+simple: simple  19:1 59:1
+sin: sin sinned sins  4:1 14:1 16:1 19:1 43:3 69:1 86:1 89:1 37:1 69:1 5:1 86:1 89:1
+since: since  23:2 85:1 93:1
+single: single  5:1
+sinister: sinister  4:1 14:3 56:1
+sink: sink sinking sunken  14:1 110:1 141:1 46:1 120:1 138:2
+sinner: sinner  21:1 53:1 67:6
+sinners: sinners  67:1
+sip: sip  39:1
+siren: siren  49:1
+sisyphus: sisyphus  137:1
+sit: sit  64:1
+skeletal: skeletal  73:1
+skeleton: skeleton  80:4
+skeletons: skeletons  114:5
+sky: skies sky  27:1 14:1 27:1 40:1 48:3 82:1 97:3 99:1 102:2 132:1 140:1 141:1
+skin: skin  118:1 132:1
+slay: slain slay slaying  134:1 16:1 76:1
+slam: slam  103:2
+slap: slap  126:1
+slaughter: slaughter slaughtered  19:1 39:1 107:2 65:1
+slaughterous: slaughterous  73:1
+slave: slave slaves  135:1 84:3 132:1
+slayer: slayer  86:1 89:1
+sleep: sleep sleeps  19:1 59:1 111:2 90:1
+sleepless: sleepless  16:1 140:1
+slide: slide  43:1
+slime: slime  60:1
+slip: slip slipped slipping  136:1 21:1 53:1 44:1
+slowly: slowly  5:2 47:1 92:1
+smell: smell  20:1 32:1 51:1 79:1 88:1 124:1
+smile: smile smiles  44:2 127:1 141:4 126:1
+smoke: smoke  117:1 120:1
+snort: snorting  73:1
+snow: snow  45:1 107:2 116:1
+snuff: snuff  73:1
+soar: soaring  99:1
+society: society  106:1
+sodden: sodden  73:1
+softly: softly  31:1
+soil: soil soiled  77:1 19:1
+solemn: solemn  99:1
+soliloquy: soliloquy  137:3
+solitude: solitude  9:1 35:1 52:1
+solo: solo solos  9:1 43:1 52:1 71:1 103:2 108:1
+solve: solved  120:1
+solvent: solvent  73:2
+someone: someone  124:1
+something: something  83:1 122:2 142:2
+sometimeâ¦: sometimeâ¦  99:1
+somewhere: somewhere  83:1
+song: song  25:1
+soon: soon  34:1 50:1 120:1 138:1
+sores: sores  136:1
+sorrow: sorrow  34:1 50:1 106:1 141:1
+soul: soul  1:1 3:1 4:1 23:2 36:1 37:1 38:1 39:2 43:1 47:3 61:1 64:1 69:1 75:2 79:2 86:1 88:2 89:1 90:1 92:1 95:2 98:1 99:1 103:2 113:1 114:1
+souls: souls  1:1 15:1 17:1 23:2 24:2 26:1 30:1 40:2 56:1 76:1 97:1 106:1
+sound: sound  49:1
+sour: sour  27:1
+sow: sowed sowing sown  7:1 20:1 32:1 51:1 65:1 135:1
+speak: speak speaks spoken  110:1 127:1 97:1 31:1
+speed: speed  49:1 132:1
+spell: spell  30:1
+spend: spent  1:1
+spew: spewing  63:2
+spill: spill  20:1 32:1 51:1
+spin: spin spinning  27:1 49:1 27:1
+spiral: spiral spiralling  7:1 36:1 14:1
+spirit: spirit spirits  1:1 27:1 39:1 84:1 113:1 23:1 39:1 40:1 107:1
+spiritual: spiritual  25:1 67:2
+spiritus: spiritus  98:2
+spit: spit spitting  63:2 60:2
+spitfires: spitfires  49:1
+spoon: spoon  64:1
+sport: sport  12:1
+spread: spread spreading spreads  37:2 69:2 60:3 17:1
+spring: springs  118:1
+sputter: sputters  128:1
+stab: stab  126:1
+stage: stage  85:2 93:2
+stag: stages  42:1
+stain: stain stains  82:1 19:1
+stake: stake  37:1 69:1
+stand: stand standing stands stood  4:1 29:1 57:1 70:1 76:1 85:1 90:1 93:1 105:1 127:2 137:1 19:1 23:2 84:1 102:1 104:1 119:1 24:2 71:1 65:4 142:1
+star: star stares staring stars  27:1 48:1 120:1 4:1 10:1 99:1 107:1 141:1 138:1
+starbreaker: starbreaker  48:13
+stare: stare  29:1
+starglow: starglow  15:1
+starlit: starlit  27:1
+start: start starting starts  49:1 120:1 120:1 1:1 30:1 71:1 87:1
+state: state  14:1 16:1
+status: status  134:1
+stay: stay stays  27:1 34:1 50:1 87:1 94:1 125:1 142:1
+stealin': stealin'  48:2
+steel: steel  61:1 79:1 81:1 82:1 83:1 88:1 114:2
+steelfor: steelfor  72:1
+steer: steer  73:1
+stellarum: stellarum  22:1
+step: step  43:2 48:2 72:1 78:1 85:2 93:2 121:1 125:1
+stereotype: stereotype  57:1 70:1
+steve: steve  11:1
+stiff: stiff  107:1
+stiffing: stiffing  73:1
+stigmata: stigmata  13:1 56:1
+still: still  19:1 24:2 84:1 108:1 127:2 137:1 138:1
+stillborn: stillborn  106:3
+stimulation: stimulation  64:1
+sting: stings  132:1
+stink: stinking  58:1 68:1
+steal: stolen  124:2
+stone: stone stones  30:1 142:1 106:1
+stop: stop stopped stops  136:1 19:1 17:1 121:1
+store: store  15:1
+storm: storm storms  110:1 142:3 107:1
+stormy: stormy  128:2
+story's: story's  136:1
+straight: straight  49:1 140:3
+strain: straining  134:1
+strangers: strangers  137:1
+stream: stream  135:6
+street: street  115:1
+streets: streets  71:1 104:3 115:2 132:3
+strength: strength  78:1 90:1 103:1 134:4
+strengths: strengths  39:1
+stride: stride  141:1
+strike: strike striking struck  105:1 40:1 21:1 53:1
+string: strings  63:1
+strip: strip stripped  28:1 121:1 122:1 124:1 138:1
+strive: strive  67:1
+strong: strong  25:1 76:1 103:1 105:1 128:2
+stronger: stronger  29:2 38:1 105:1
+struggle: struggle  1:1 26:1 78:1
+study: study  26:1
+stumble: stumbling  3:1
+subconscience: subconscience  38:1
+subservience: subservience  134:1
+succumb: succumb  99:1
+suck: suck  30:1
+sudden: sudden  77:1 99:1
+suddenly: suddenly  132:1
+suffer: suffer suffered suffering  2:1 7:1 56:2 78:2 95:1 104:1 137:1 124:1 135:1 65:1 94:1
+suffocate: suffocating  3:1
+suicide: suicide  36:1 61:1
+suit: suit  132:1
+sun: sun  3:1 15:3 27:2 37:1 46:1 49:1 69:1 82:1 97:3 99:1 138:1
+sunrise: sunrise  84:2
+suppress: suppress  14:1
+sure: sure  142:3
+surface: surface  1:1 25:1
+surrender: surrender  17:1 90:2
+surround: surrounded surrounding surrounds  15:1 4:1 47:1
+survival: survival  110:1
+survive: survive  138:1
+suspect: suspect  132:1
+suspicious: suspicious  37:2 69:2
+swallow: swallow swallowed  44:2 82:1 118:1
+sway: swaying  71:1
+swear: swear  72:1
+sweat: sweat  79:1 88:1
+sweet: sweet  44:1 113:1 120:1 127:1
+sweep: swept  16:1
+swim: swim  132:1 135:6 141:1
+swirl: swirling  110:1
+symbolical: symbolical  1:2
+symphony: symphony  71:2
+system: system  76:1 110:1 132:1 135:1
+table: tables  75:1
+taboo: taboo  43:1
+take: take taken takes taking took  40:2 44:1 48:2 71:2 79:2 83:1 87:1 88:2 91:1 105:4 134:5 137:1 68:1 69:1 70:1 43:1 48:3 56:1 75:3 78:1 86:1 89:1 83:1 99:1
+taker: taker  40:1
+tales: tales  26:1 103:1 110:1
+talk: talk  108:1 127:1
+tall: tall  71:2 104:1 110:1
+tangibility: tangibility  126:1
+tangible: tangible  125:1
+taste: taste tasted tastes  4:1 77:1 79:1 88:1 107:1 23:1 27:1
+tear: tear tearing tears torn  55:1 57:1 70:1 79:2 88:2 122:1 99:1 2:1 4:1 19:2 29:1 44:1 86:1 89:1 95:1 114:1 1:1 9:1 17:1 35:1 52:1 122:1 138:1
+teeth: teeth  126:1
+tell: tell told  1:1 58:1 68:1 85:1 93:1 114:3 119:3 122:1 134:1
+tempest: tempest  34:1
+temple: temple  20:1 32:1 42:1 51:1
+tempore: tempore  117:2
+temptation: temptation  20:1 32:1 51:1
+ten: ten  49:1
+tender: tender  31:1
+termination: termination  9:2 35:2 52:2
+terror: terror  94:1 138:2
+test: test  28:1
+that's: that's  126:1 136:1
+theme: theme  89:3
+therapy: therapy  137:2
+there's: there's  119:1 121:1 122:2 132:2 133:10 136:12 138:1 142:4
+theres: theres  49:1
+they'd: they'd  108:1 119:3
+they'll: they'll  127:1 136:1
+they're: they're  134:1
+thin: thin  28:1
+thing: thing  140:3 142:3
+things: things  34:1 50:1 64:1
+think: think thought  141:1 23:1 83:1 121:1 140:2
+thirsty: thirsty  3:1
+thorns: thorns  107:1 111:4
+thou: thou  30:1
+though: though  141:1
+thoughtless: thoughtless  63:1
+thoughts: thoughts  36:2 38:1
+thousand: thousand  1:1 4:1 59:2 78:1
+thousands: thousands  26:2 40:1
+thrill: thrill  20:1 32:1 51:1 115:1
+throat: throat  107:1
+throats: throats  110:1
+throne: throne  30:1
+throughout: throughout  67:2
+throw: thrown  114:1
+tide: tides  132:1
+till: till  105:1
+time: time times  1:1 4:1 8:1 21:1 24:3 28:1 41:1 42:3 44:1 48:1 49:1 53:1 57:1 58:1 68:1 70:1 102:1 105:6 115:1 117:1 118:1 120:1 124:1 125:5 132:1 138:1 141:1 142:2 9:1 19:1 35:1 37:2 52:1 69:2 119:2
+timeless: timeless  99:1
+tin: tin  142:1
+tire: tired  130:1 136:1
+today: today  122:1
+together: together  15:1 73:1
+tolerate: tolerate  134:1
+tomb: tomb  15:1 26:1
+tombs: tombs  106:1
+tomorrow: tomorrow  34:1 50:1 102:1 138:2 141:1
+tomorrowâs: tomorrowâs  91:1
+tongue: tongue tongues  111:2 60:2 110:1
+tonight: tonight  27:1 37:1 69:1 87:1 90:1 102:1
+tool: tool tools  130:1 67:1
+tooth: tooth  133:4
+torment: torment tormented  2:1 16:1 17:1
+torture: torture tortured  23:1 108:1 24:2
+touch: touch  44:1
+toward: toward  134:1
+tower: towering  127:1
+town: town  48:2
+toxic: toxic  73:1
+trace: traces  67:2
+track: track  33:1 100:1
+trackoriginally: trackoriginally  130:1
+tragedy: tragedy  56:1
+tragic: tragic  56:1
+trail: trail  21:1 53:1
+trample: trample  72:1
+tranquilize: tranquilized  75:1
+transcend: transcend  3:1
+transfusion: transfusion  7:2
+transgress: transgress  20:1 32:1 51:1
+transition: transition  38:2
+translation: translation  117:1
+transmigrate: transmigrate  7:2
+transmigration: transmigration  7:2 113:1
+transmutation: transmutation  7:1
+transparent: transparent  7:1 98:1
+trap: trapped  7:1 23:1 39:1 106:3
+traumatic: traumatic  4:1
+travel: traveled  141:3
+traveller: traveller  1:1
+traverse: traversing  80:1
+treat: treat  130:6
+tree: tree  127:1
+trespassers: trespassers  4:1
+trials: trials  120:1
+trigger: trigger  94:2 104:1
+triturated: triturated  73:1
+triumphant: triumphant  24:1
+trivial: trivial  60:2
+truculent: truculent  73:2
+true: true  19:2 113:3 115:1 132:1
+trust: trust trusted  29:1 42:2 92:1 103:1 111:2 124:1 132:2 29:1
+truth: truth  4:1 12:1 23:1 25:2 26:1 56:2 59:1 90:1 103:1 104:1 111:2 113:1 121:1 124:1 125:2 132:1
+truths: truths  27:1
+try: try trying  30:1 71:1 102:1 119:6 122:1 127:1 127:1
+tunnel: tunnel  16:1 47:1
+turmoil: turmoil  110:1
+turn: turn turned turning turns  17:1 23:1 36:1 43:2 49:1 79:1 88:1 99:1 112:1 124:1 132:1 134:1 141:1 9:1 17:1 35:1 52:1 75:1 95:1 111:2 127:1 19:1 49:4 85:1 93:1 111:1 132:3 137:1 78:1 127:1
+tuurn: tuurn  25:1
+twentieth: twentieth  17:1
+twist: twisted twisting  7:1 17:1 23:1 28:1 29:1 38:2 56:1 58:1 68:1 103:1 4:1
+two: two  9:1 35:1 52:1 137:1 138:1
+tyrant: tyrant  94:1
+tyrants: tyrants  94:2
+ugly: ugly  25:1 124:1
+ultimate: ultimate  1:1 14:1 16:1 25:1 28:1 113:1 134:1
+ultimately: ultimately  118:1
+unable: unable  2:1
+unborn: unborn  15:1
+unbridle: unbridled  40:1
+uncertainty: uncertainty  9:1 35:1 52:1
+unchased: unchased  27:1
+uncontrollable: uncontrollable  40:2
+undead: undead  24:1
+understand: understand  48:1 67:6 136:2
+undertow: undertow  118:3
+undying: undying  101:1
+unfold: unfold unfolds  19:1 12:1
+unfulfilled: unfulfilled  90:1
+unheard: unheard  80:1 120:1
+uniform: uniform  19:1
+unique: unique  57:1 70:1
+unite: unite united  141:1 76:1 105:1
+universe: universe  14:1
+unknown: unknown  4:1 9:1 35:1 52:1
+unlearn: unlearned  120:1
+unleash: unleash unleashed  23:1 134:1 113:3
+unrecognizable: unrecognizable  75:1
+unseen: unseen  80:1
+untouched: untouched  134:1
+unwavering: unwavering  90:1
+unwhole: unwhole  137:1
+upon: upon  14:1 15:1 16:1 21:1 53:1 65:1 97:1 107:1 120:1 127:1
+us: us  5:1 15:2 24:1 27:1 40:2 42:1 48:2 49:1 56:3 59:1 60:5 78:3 95:1 102:2 105:2 120:1 132:1 137:1
+use: use used  20:2 30:1 32:2 51:2 130:1 134:4 29:1 59:1 91:1 137:1
+usnot: usnot  72:1
+vacant: vacant  24:1
+vain: vain  114:1
+value: value valued  138:1 132:1
+vapours: vapours  73:2
+vault: vault  114:1
+vein: veins  39:1 76:1
+vengeance: vengeance  83:2 113:2
+vengence: vengence  140:1
+venomous: venomous  60:2
+verge: verge  23:1
+version: version  35:1 71:1 72:1 73:1
+vicious: vicious  56:1 76:1 126:1
+victims: victims  108:1
+victor: victor  137:1
+victorious: victorious  140:1
+victory: victory  58:1 68:1 126:2
+violate: violated  118:3
+violation: violation  17:1
+violent: violent  58:1 68:1 95:1
+virgin: virgin  14:1
+virtually: virtually  75:1
+viscous: viscous  73:1
+vision: vision  24:1
+voice: voice voices  61:1 76:1 102:1 104:1 108:1 16:1 77:1 99:1
+voiceless: voiceless  80:1
+void: void  4:1 47:1 75:1 128:1
+voluntarily: voluntarily  132:1
+vortex: vortex  14:1
+vox: vox  22:1
+voyage: voyage  1:1 48:1
+vulture: vulture  36:1
+vultures: vultures  99:2
+w: w  73:1
+wag: wages  69:1 86:1 89:1
+wait: wait waiting  127:2 17:1 26:1 34:1 48:1 50:1 78:1 79:1 88:1 99:1 113:2 118:1
+wake: wake  57:1 70:1 138:2
+walk: walk walking  10:1 15:1 41:1 76:1 78:1 87:5 115:2 121:1 124:1 126:1 134:1 138:2 78:2 84:1
+wall: wall walls  23:1 105:1 119:3 130:19 133:2 3:1 55:1 57:1 70:1 82:2 106:4 108:1 140:1
+want: want wanted  25:1 57:1 70:1 102:1 126:1 134:8 44:1 98:1
+war: war wars  56:1 72:1 94:3 102:1 107:1 119:4 126:1 132:1 133:1 56:1
+warm: warm  27:1
+warn: warns  49:1
+wash: wash washed  19:1 37:1 69:1 108:1 120:1
+waste: waste wasted  27:1 49:1 2:1
+watch: watch watching  23:1 57:1 60:1 70:1 71:2 80:3 94:2 97:1 118:1 127:1 133:1 140:1 20:1 32:1 51:1 78:1 85:1 93:1 118:1 122:1
+water: water waters  133:7 97:1 124:1
+wave: wave  16:1 133:1
+way: way  10:1 16:1 21:3 27:1 34:2 36:1 50:2 53:3 85:2 93:2 105:2 110:3 119:1 127:1 135:6 141:3
+ways: ways  110:3
+we'll: we'll  87:6
+we're: we're  1:1 9:1 35:1 52:1 132:5 133:2
+we've: we've  9:1 35:1 49:1 52:1 59:2 87:1 118:2
+weak: weak  2:1 9:1 35:1 36:1 52:1 103:1 108:1
+weaken: weakened  10:1
+weakest: weakest  23:1
+weakness: weakness  28:1 67:1
+weapons: weapons  36:1 72:3 126:2
+wear: wearing  138:1
+weave: weave weaving  140:1 4:1 42:1
+web: web  4:1 42:4 111:1
+week: week  138:2
+weigh: weighing  114:1
+weight: weight  127:1
+welcome: welcome  64:1
+well: well  30:1 135:1 136:2 140:1
+what's: what's  72:1 75:1 87:3 121:4 124:1
+wheel: wheel wheels  19:1 27:1 49:1 78:1 85:1 93:1 111:1
+whisk: whisk  120:1
+whisper: whisper whispering  36:1 77:1
+white: white  28:1
+whitegluz: whitegluz  120:1 121:1 125:1 126:1 127:1
+whole: whole  105:1 126:1 127:1
+wicked: wicked  4:1
+wide: wide  16:1
+willful: willful  127:1
+wilt: wilt  30:1
+win: win  142:15
+wind: wind wound  9:1 23:1 35:1 47:2 52:1 72:1 120:1 128:2 128:1
+windows: windows  140:1
+wing: wings  23:1 83:1 99:1 142:1
+wipe: wipe  141:2
+wisdom: wisdom  23:1
+wish: wish  2:1 3:1 14:1 135:1
+wither: withered  80:1
+within: within  4:1 16:1 17:1 24:1 36:2 39:1 46:1 124:1 134:4 142:3
+without: without  10:1 108:5 132:1 138:2 140:1
+witness: witness witnessed  107:1 138:1
+wolf: wolf  118:1
+wolves: wolves  63:1 90:1 107:1
+womb: womb  15:1 26:1
+women: women  138:1
+wonât: wonât  103:2
+word: word words  120:2 124:1 19:1 23:1 110:1 114:2 121:1 134:1 142:1
+work: works  26:1
+world: world  4:1 20:1 23:1 28:2 29:1 32:1 46:1 48:1 51:1 57:1 59:2 70:1 71:1 78:1 94:1 95:2 101:1 102:1 103:3 105:1 106:3 110:1 114:1 120:1 122:1 124:2 126:1 127:1 129:1 134:9 135:1 137:2
+worlds: worlds  115:1
+worldâs: worldâs  95:1
+worse: worse  92:1 138:1
+worship: worship  67:3
+worst: worst  23:1 36:1
+worth: worth  44:1 136:1
+worthless: worthless  58:2 68:2
+would: would  5:1 80:1 114:1 125:1
+wound: wounds  56:1 75:1
+wrap: wrap  3:1
+writhe: writhe  43:1
+write: written  59:1 72:1 120:1 124:1
+wrong: wrong  25:3 113:2 121:1 126:1 142:1
+year: year  140:2
+yearn: yearning  20:1 32:1 51:1
+years: years  2:1 4:1 103:1
+yes: yes  27:1
+yesterday: yesterday  84:3 91:1 102:5
+yesterday's: yesterday's  133:1
+yet: yet  127:2
+yoru: yoru  14:1
+young: young  19:1 25:1 63:1
+younger: younger  34:1 50:1
+youth: youth  24:1
+youâll: youâll  91:1
+zoo: zoo  115:4
+â: â  89:11 90:9 91:5 92:10 93:10 94:14 95:7 96:2 97:3 98:6 99:11 128:2
+â¦alone: â¦alone  92:1
